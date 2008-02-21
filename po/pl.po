@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-02-17 17:09+0100\n"
-"PO-Revision-Date: 2005-10-18 14:49+0100\n"
+"PO-Revision-Date: 2008-02-21 16:49+0100\n"
 "Last-Translator: Arkadiusz Danilecki <adanilecki@cs.put.poznan.pl>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -41,18 +41,18 @@ msgid "High Lord"
 msgstr "Władca wysokiego rodu"
 
 #: Legend_of_Wesmere.cfg:21
-#, fuzzy
 msgid ""
 "Follow the story of the Kalenz and the Elves in Wesnoth and their fight for "
 "survival from the second orcish invasion to the times of Konrad and Delfador"
 "(Version 1.4.5, 24 fighting scenaria, 32 total, COMPLETE)"
 msgstr ""
 "Poznaj historię Kalenza i Elfów Wesnoth oraz ich walki o przetrwanie od "
-"czasów drugiej inwazji orków aż do czasów Konrada i Delfadora"
+"czasów drugiej inwazji orków aż do czasów Konrada i Delfadora\n"
+"(Wersja 1.4.5, 24 scenariusze z walką, razem 32, UKOŃCZONA)"
 
 #: Legend_of_Wesmere.cfg:24
 msgid "Campaign designer"
-msgstr ""
+msgstr "Projektant kampanii"
 
 #: Legend_of_Wesmere.cfg:29
 msgid "Miscellaneous"
@@ -76,7 +76,7 @@ msgid ""
 "growing up..."
 msgstr ""
 "Na małym, odległym półwyspie na północ od Wesnoth dorastał młody elf, "
-"imieniem Kalenz.."
+"imieniem Kalenz..."
 
 #: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:31
 msgid ""
@@ -220,13 +220,12 @@ msgstr "Elfy nigdy się nie poddadzą tym ohydnym bestiom! Kto jest ze mną?"
 #: Legend_of_Wesmere/scenarios/23_End_of_War.cfg:47
 #: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:283
 #: Legend_of_Wesmere/scenarios/22_Northern_Battle.cfg:65
-#, fuzzy
 msgid "Landar"
-msgstr "Pokonaj Landara"
+msgstr "Landar"
 
 #: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:300
 msgid "We will follow you-but where do we go? We are surrounded!"
-msgstr "Podążym za tobą, ale dokąd? Jesteśmy otoczeni!"
+msgstr "Podążymy za tobą, ale dokąd? Jesteśmy otoczeni!"
 
 #: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:307
 msgid ""
@@ -280,7 +279,6 @@ msgid "You won't get very far! After them!"
 msgstr "Daleko nie ujdziecie! Za nimi!"
 
 #: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:4
-#, fuzzy
 msgid "Hostile mountains"
 msgstr "Wrogie góry"
 
@@ -301,9 +299,8 @@ msgid "Olurf"
 msgstr ""
 
 #: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:81
-#, fuzzy
 msgid "Grugl"
-msgstr "Hrugt"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/06_Aquaintance_in_Need.cfg:176
 #: Legend_of_Wesmere/scenarios/11_Battle_of_the_book.cfg:106
@@ -323,7 +320,7 @@ msgid ""
 msgstr ""
 "Miałem nadzieję ominąć te ścieżki... Wschodnia ścieżka to terytorium "
 "krasnoludów i jest krótsza. Mam nadzieję, że krasnoludy zezwolą nam na "
-"przejście, bo druga ściezka wiedzie poprzez terytorium trolli..."
+"przejście, bo druga ścieżka wiedzie poprzez terytorium trolli..."
 
 #: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:191
 msgid ""
@@ -516,9 +513,8 @@ msgid "Shurm"
 msgstr ""
 
 #: Legend_of_Wesmere/scenarios/04_Elvish_Treasury.cfg:66
-#, fuzzy
 msgid "Trigr"
-msgstr "Tralg"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/04_Elvish_Treasury.cfg:119
 #: Legend_of_Wesmere/scenarios/05_Saurian_Treasury.cfg:124
@@ -551,7 +547,7 @@ msgstr ""
 
 #: Legend_of_Wesmere/scenarios/04_Elvish_Treasury.cfg:152
 msgid "and I see the remains of the garrison has been taken prisoners."
-msgstr "..i widzę, że to ci, co przeżyli z garnizonu, jest w niewoli."
+msgstr "...i widzę, że ci co przeżyli z garnizonu są w niewoli."
 
 #: Legend_of_Wesmere/scenarios/04_Elvish_Treasury.cfg:157
 msgid ""
@@ -574,9 +570,8 @@ msgid "You will not live to enjoy it!"
 msgstr "Nie będziecie żyć dość długo by się tym cieszyć!"
 
 #: Legend_of_Wesmere/scenarios/04_Elvish_Treasury.cfg:175
-#, fuzzy
 msgid "Cleodil"
-msgstr "Nie, tylko nie Cleodil!"
+msgstr "Cleodil!"
 
 #: Legend_of_Wesmere/scenarios/04_Elvish_Treasury.cfg:191
 msgid "Arkildur"
@@ -601,6 +596,7 @@ msgstr ""
 #: Legend_of_Wesmere/scenarios/04_Elvish_Treasury.cfg:264
 msgid "Without their leaders the Saurians flee in panic. Free the garrison!"
 msgstr ""
+"Bez swoich przywódców jaszczury uciekają w panice. Uwolnijcie garnizon!"
 
 #: Legend_of_Wesmere/scenarios/04_Elvish_Treasury.cfg:274
 msgid ""
@@ -652,9 +648,8 @@ msgstr ""
 "Kalenza ruszyły za nimi..."
 
 #: Legend_of_Wesmere/scenarios/05_Saurian_Treasury.cfg:61
-#, fuzzy
 msgid "Hraurg"
-msgstr "Hrugt"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/05_Saurian_Treasury.cfg:84
 #: Legend_of_Wesmere/scenarios/19_Costly_Revenge.cfg:50
@@ -968,18 +963,16 @@ msgid "Simclon"
 msgstr ""
 
 #: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:687
-#, fuzzy
 msgid "Harald"
-msgstr "(Trudny)"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:700
 msgid "Budrin"
 msgstr ""
 
 #: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:713
-#, fuzzy
 msgid "Dudan"
-msgstr "Dran"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:726
 msgid "Korbun"
@@ -1435,9 +1428,8 @@ msgstr ""
 
 #: Legend_of_Wesmere/scenarios/11_Battle_of_the_book.cfg:59
 #: Legend_of_Wesmere/scenarios/12_Revelations.cfg:32
-#, fuzzy
 msgid "Crelanu"
-msgstr "Śmierć Crelanu"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/11_Battle_of_the_book.cfg:72
 msgid "Trigrul"
@@ -1936,9 +1928,8 @@ msgid "Tan-Grub"
 msgstr ""
 
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:142
-#, fuzzy
 msgid "Grol"
-msgstr "Pribol"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:173
 msgid "Khafa-Urg"
@@ -1985,14 +1976,12 @@ msgid "Kutrubekis"
 msgstr ""
 
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:379
-#, fuzzy
 msgid "Artolas"
-msgstr "Nareszcie!"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:391
-#, fuzzy
 msgid "Irglus"
-msgstr "Gliglus"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:399
 msgid "Antomeril"
@@ -2035,9 +2024,8 @@ msgid "Aronas"
 msgstr ""
 
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:487
-#, fuzzy
 msgid "Halard"
-msgstr "(Trudny)"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:496
 msgid "Insith"
@@ -2229,28 +2217,24 @@ msgid ""
 msgstr "Zabij króla orków i powróć Kalenzem do lasu obok pozycji startowej."
 
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:267
-#, fuzzy
 msgid "Grut"
-msgstr "Hrugt"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:275
 msgid "Krolru"
 msgstr ""
 
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:283
-#, fuzzy
 msgid "Kryl"
-msgstr "Krulg"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:291
-#, fuzzy
 msgid "Erdug"
-msgstr "Hrugt"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:299
-#, fuzzy
 msgid "Urdol"
-msgstr "Urlg"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:307
 msgid "Tan-Drur"
@@ -2261,14 +2245,12 @@ msgid "Brim"
 msgstr ""
 
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:323
-#, fuzzy
 msgid "Krud"
-msgstr "Krulg"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:331
-#, fuzzy
 msgid "Krulr"
-msgstr "Krulg"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:339
 msgid "Draglar"
@@ -2287,14 +2269,12 @@ msgid "Erdog"
 msgstr ""
 
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:374
-#, fuzzy
 msgid "Griul"
-msgstr "Krulg"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:382
-#, fuzzy
 msgid "Sdrul"
-msgstr "Krulg"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:390
 msgid "Sbrak"
@@ -2349,9 +2329,8 @@ msgid "Odrun"
 msgstr ""
 
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:493
-#, fuzzy
 msgid "Cfrul"
-msgstr "Krulg"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:501
 msgid "Irkrul"
@@ -2456,7 +2435,6 @@ msgid "The plan is working! Now we take back what's ours!"
 msgstr "Plan działa! A teraz, odbierzmy co nasze!"
 
 #: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:5
-#, fuzzy
 msgid "Breaking the siege"
 msgstr "Przełamanie oblężenia"
 
@@ -2474,9 +2452,8 @@ msgstr ""
 "zadecydowano wysłać im pomoc. Ale zima zaskoczyła naszych bohaterów.."
 
 #: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:49
-#, fuzzy
 msgid "Mbiran"
-msgstr "Dran"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:82
 msgid "Tan-Durr"
@@ -2489,14 +2466,13 @@ msgstr ""
 #: Legend_of_Wesmere/scenarios/20_Council_ruling.cfg:56
 #: Legend_of_Wesmere/scenarios/22_Northern_Battle.cfg:51
 #: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:160
-#, fuzzy
 msgid "Uradredia"
-msgstr " Śmierć Uradredia"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/22_Northern_Battle.cfg:152
 #: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:193
 msgid "Death of Uradredia"
-msgstr " Śmierć Uradredia"
+msgstr "Śmierć Uradredia"
 
 #: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:238
 msgid ""
@@ -2570,7 +2546,7 @@ msgstr ""
 
 #: Legend_of_Wesmere/scenarios/18_A_Warning.cfg:48
 msgid "Crelanu  warned us about it..."
-msgstr "Krelanu ostrzegł nas o niej..."
+msgstr "Crelanu ostrzegł nas o niej..."
 
 #: Legend_of_Wesmere/scenarios/18_A_Warning.cfg:52
 msgid "There was no other choice. Even if we die, it was worth it."
@@ -2752,9 +2728,8 @@ msgid "...but things were about to get interesting again..."
 msgstr "... ale właśnie znowu zaczynało być interesująco."
 
 #: Legend_of_Wesmere/scenarios/21_Elvish_Assasins.cfg:60
-#, fuzzy
 msgid "Antaril"
-msgstr "Athburil"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/21_Elvish_Assasins.cfg:72
 #: Legend_of_Wesmere/scenarios/22_Northern_Battle.cfg:99
@@ -2771,9 +2746,8 @@ msgstr "Kalenz osiąga drogowskaz"
 
 #: Legend_of_Wesmere/scenarios/21_Elvish_Assasins.cfg:190
 #: Legend_of_Wesmere/scenarios/21_Elvish_Assasins.cfg:206
-#, fuzzy
 msgid "Gailetkis"
-msgstr "Kletskis"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/21_Elvish_Assasins.cfg:208
 msgid "My Lord Kalenz, you are in great danger! You must get out immediately."
@@ -2860,7 +2834,6 @@ msgid "Things are not going well! Retreat! We will meet again, traitors!"
 msgstr "Nie jest dobrze! Odwrót! Jeszcze sie spotkamy, zdrajcy!"
 
 #: Legend_of_Wesmere/scenarios/22_Northern_Battle.cfg:278
-#, fuzzy
 msgid ""
 "We have yet to break their defences! While we are getting weaker the enemy "
 "is getting stronger! Retreat!"
@@ -3016,22 +2989,20 @@ msgid "Tan-drul"
 msgstr ""
 
 #: Legend_of_Wesmere/scenarios/25_The_Return_of_Trouble.cfg:125
-#, fuzzy
 msgid "Krardul"
-msgstr "Krulg"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/25_The_Return_of_Trouble.cfg:159
 msgid "Clartakis"
 msgstr ""
 
 #: Legend_of_Wesmere/scenarios/25_The_Return_of_Trouble.cfg:227
-#, fuzzy
 msgid ""
 "Kill these filthy elves! All warlords will then accept our leader, Zorlan, "
 "as king and he will reward you all!"
 msgstr ""
 "Zabić te elfickie brudasy! Wszyscy wojenni wodzowie uznają wtedy naszego "
-"przywódcę, Karuna Czarne Oko, za króla i wynagrodzi was wszystkich!"
+"przywódcę, Zorlana, za króla i on wynagrodzi was wszystkich!"
 
 #: Legend_of_Wesmere/scenarios/25_The_Return_of_Trouble.cfg:232
 msgid "This is what we have been training for! Now we drive these beasts back!"
@@ -3092,14 +3063,12 @@ msgid "River crossing"
 msgstr "Przeprawa przez rzekę"
 
 #: Legend_of_Wesmere/scenarios/27_River_crossing.cfg:20
-#, fuzzy
 msgid "Kalenz  moved North to take the fight to Zorlan..."
-msgstr "Kalenz ruszył na północ aby podjąć walkę z Karunem Czarne Oko..."
+msgstr "Kalenz ruszył na północ aby podjąć walkę z Zorlanem..."
 
 #: Legend_of_Wesmere/scenarios/27_River_crossing.cfg:50
-#, fuzzy
 msgid "Brugr"
-msgstr "Hrugt"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/27_River_crossing.cfg:126
 msgid ""
@@ -3227,14 +3196,12 @@ msgid "Nameless"
 msgstr ""
 
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:196
-#, fuzzy
 msgid "Hraul"
-msgstr "Hrugt"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:204
-#, fuzzy
 msgid "Atrag"
-msgstr "Tralg"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:212
 msgid "Horr"
@@ -3253,9 +3220,8 @@ msgid "We have more help!"
 msgstr "Dostaliśmy pomoc!"
 
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:244
-#, fuzzy
 msgid "Haunt"
-msgstr "Hrugt"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:252
 msgid "Gdal"
@@ -3266,9 +3232,8 @@ msgid "Oltr"
 msgstr ""
 
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:268
-#, fuzzy
 msgid "Orbl"
-msgstr "Orhtib"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:276
 msgid "Nifigt"
@@ -3285,9 +3250,8 @@ msgstr "I jeszcze więcej pomocy!"
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:300
 #: Legend_of_Wesmere/scenarios/30_Prince_of_Wesnoth.cfg:181
 #: Legend_of_Wesmere/scenarios/30_Prince_of_Wesnoth.cfg:224
-#, fuzzy
 msgid "Delfador"
-msgstr "Śmierć Delfadora"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:313
 msgid "Clogrin"
@@ -3314,14 +3278,12 @@ msgid "Glen"
 msgstr ""
 
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:375
-#, fuzzy
 msgid "Droni"
-msgstr "Dran"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:386
-#, fuzzy
 msgid "Arthur"
-msgstr "Athburil"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:398
 msgid ""
@@ -3341,7 +3303,7 @@ msgid ""
 "are in your debt today. "
 msgstr ""
 "A więc wyście jest Delfador... Ur-Thorodor powiedział nam o was. Ale "
-"myśleliśmy, żescie martwi albo uwięzieni w Krainie Śmierci.. Jam jest "
+"myśleliśmy, żescie martwi albo uwięzieni w Krainie Śmierci... Jam jest "
 "Kalenz, władca elfów. Mamy wobec was dług."
 
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:415
@@ -3371,7 +3333,6 @@ msgstr ""
 "waszej pomocy by ich odeprzeć. Później zajmę się nieumarłymi."
 
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:429
-#, fuzzy
 msgid ""
 "Our experience \n"
 "with Wesnoth Kings has not been too good. At first we thought it was  that "
@@ -3382,7 +3343,7 @@ msgstr ""
 "Nasze doświadczenia z królami Wesnoth nie są zbyt dobre. Na początku "
 "sądziliśmy, że to wina nieosłoniętego rubinu ognia, ale nawet, gdy "
 "opowiedziliśmy o wszystkich Haldricowi II-mu, rubin został osłonięty "
-"wyjątkowo czystym złotem, wciąż pozostają aroganccy. Ale mamy wobec was "
+"wyjątkowo czystym złotem, wciąż pozostają arogantcy. Ale mamy wobec was "
 "dług, Delfadorze, i dołączymy do was."
 
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:433
@@ -3398,13 +3359,12 @@ msgid "Save the King"
 msgstr "Ocal króla"
 
 #: Legend_of_Wesmere/scenarios/29_Save_the_King.cfg:20
-#, fuzzy
 msgid ""
 "Following Delfador, the elves moved to unite with the Wesnoth forces and "
 "meet Zorlan head-on..."
 msgstr ""
 "Podążając za Delfadorem, elfy połączyły się z siłami Wesnoth i ruszyły "
-"prosto naprzeciw Karunowi Czarne Oko..."
+"prosto naprzeciw Zorlanowi..."
 
 #: Legend_of_Wesmere/scenarios/29_Save_the_King.cfg:31
 msgid "but the King was in an unenviable position..."
@@ -3415,9 +3375,8 @@ msgid "Garard"
 msgstr ""
 
 #: Legend_of_Wesmere/scenarios/29_Save_the_King.cfg:70
-#, fuzzy
 msgid "Zorlan"
-msgstr "Dran"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/29_Save_the_King.cfg:92
 msgid "T'bhan"
@@ -3432,9 +3391,8 @@ msgid "Trgrau"
 msgstr ""
 
 #: Legend_of_Wesmere/scenarios/29_Save_the_King.cfg:172
-#, fuzzy
 msgid "Defeat Zorlan"
-msgstr "Pokonaj Landara"
+msgstr "Pokonaj Zorlana"
 
 #: Legend_of_Wesmere/scenarios/29_Save_the_King.cfg:188
 msgid "Death of Garard"
@@ -3655,9 +3613,8 @@ msgstr ""
 "obszaru."
 
 #: Legend_of_Wesmere/scenarios/30_Prince_of_Wesnoth.cfg:58
-#, fuzzy
 msgid "Eldred"
-msgstr "Pokonaj Eldreda"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/30_Prince_of_Wesnoth.cfg:78
 msgid "Lowel"
@@ -3752,9 +3709,8 @@ msgid "T'umqin"
 msgstr ""
 
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:86
-#, fuzzy
 msgid "Ocrhan"
-msgstr "Dran"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:119
 msgid "Vragul"
@@ -3800,23 +3756,20 @@ msgstr ""
 "K'alian. Delfador będzie tam również razem z ludzkimi rebeliantami!"
 
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:253
-#, fuzzy
 msgid "Kfalru"
-msgstr "Kallub"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:261
 msgid "Grituw"
 msgstr ""
 
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:269
-#, fuzzy
 msgid "Krigrul"
-msgstr "Krulg"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:277
-#, fuzzy
 msgid "Orthib"
-msgstr "Orhtib"
+msgstr ""
 
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:284
 msgid "Ukhtan"
@@ -3928,23 +3881,21 @@ msgstr ""
 #: Legend_of_Wesmere/units/Marksman_Invisible.cfg:65
 #: Legend_of_Wesmere/units/Sharpshooter_Invisible.cfg:61
 #: Legend_of_Wesmere/units/Elvish_Elder.cfg:28
-#, fuzzy
 msgid "sword"
-msgstr "Władca"
+msgstr "miecz"
 
 #: Legend_of_Wesmere/units/Archer_Invisible.cfg:46
 #: Legend_of_Wesmere/units/Avenger_Invisible.cfg:74
 #: Legend_of_Wesmere/units/Ranger_Invisible.cfg:71
 #: Legend_of_Wesmere/units/Elvish_Elder.cfg:77
 msgid "bow"
-msgstr ""
+msgstr "łuk"
 
 #: Legend_of_Wesmere/units/Avenger_Invisible.cfg:4
 msgid "Elvish Avenger Invisible"
 msgstr "Niewidzialny mściciel Elfów"
 
 #: Legend_of_Wesmere/units/Avenger_Invisible.cfg:21
-#, fuzzy
 msgid ""
 "Elvish Avengers are extremely skillful and extremely quick, powerful in all "
 "forms of combat. Avengers are considered the best of all woodsmen in "
@@ -3956,22 +3907,24 @@ msgstr ""
 "Elficcy mściciele są niezwykle szybcy i dobrze wyszkoleni, co czyni ich "
 "skutecznymi we wszelkich formach walki. Mściciele są uważani za najlepszych "
 "leśnych wojowników w Wesnoth. Mogą zaczaić się w lesie na swych wrogów, gdyż "
-"są tam nie widoczni aż do chwili, gdy zaatakują. Jednostki 'niewidzialne' na "
-"dodatek szczególnie trudno trafić."
+"są tam nie widoczni aż do chwili, gdy zaatakują. Jednostki niewidzialne na "
+"dodatek szczególnie trudno trafić.\n"
+"Uwagi specjalne:"
 
 #: Legend_of_Wesmere/units/Drake_Mage.cfg:18
 msgid "Like all Mages, the Drake Mages are capable of using magic in battle."
 msgstr ""
+"Jak wszyscy magowie, smoczy magowie potrafią korzystać z magii w bitwie."
 
 #: Legend_of_Wesmere/units/Drake_Mage.cfg:73
 #: Legend_of_Wesmere/units/Drake_Mage.cfg:182
 msgid "staff"
-msgstr ""
+msgstr "kij"
 
 #: Legend_of_Wesmere/units/Drake_Mage.cfg:123
 #: Legend_of_Wesmere/units/Drake_Mage.cfg:200
 msgid "fire breath"
-msgstr ""
+msgstr "ognisty oddech"
 
 #: Legend_of_Wesmere/units/Drake_Mage.cfg:228
 msgid "ice shot"
@@ -4000,7 +3953,7 @@ msgstr ""
 #: Legend_of_Wesmere/units/Lord_Invisible.cfg:48
 #: Legend_of_Wesmere/units/High_Lord_Invisible.cfg:84
 msgid "faerie fire"
-msgstr ""
+msgstr "ogień wróżek"
 
 #: Legend_of_Wesmere/units/Lord_Invisible.cfg:4
 msgid "Elvish Lord Invisible"
@@ -4023,7 +3976,6 @@ msgid "Elvish Marksman Invisible"
 msgstr "Niewidzialny elfowy strzelec"
 
 #: Legend_of_Wesmere/units/Marksman_Invisible.cfg:19
-#, fuzzy
 msgid ""
 "Elvish Marksman are expert in use of the bow. Their skill guarantees them a "
 "60% chance to hit enemies, even those hidden in difficult terrain. This "
@@ -4034,16 +3986,17 @@ msgstr ""
 "Elficcy strzelcy są ekspertami w użyciu łuków. Ich zdolności gwarantują 60% "
 "szans na trafienie wrogów, nawet tych ukrytych w trudnym terenie. Te "
 "niezwykłe umiejętności strzeleckie kompensują ich braki w walce wręcz i małą "
-"prędkość.  Jednostki 'niewidzialne' na dodatek szczególnie trudno trafić."
+"prędkość.  Jednostki niewidzialne na dodatek szczególnie trudno trafić.\n"
+"Uwagi specjalne:"
 
 #: Legend_of_Wesmere/units/Marksman_Invisible.cfg:74
 #: Legend_of_Wesmere/units/Sharpshooter_Invisible.cfg:70
 msgid "longbow"
-msgstr ""
+msgstr "długi łuk"
 
 #: Legend_of_Wesmere/units/Ranger_Invisible.cfg:3
 msgid "Elvish Ranger Invisible"
-msgstr "Niewidzialny elfowy łowca"
+msgstr "Niewidzialny łowca Elfów"
 
 #: Legend_of_Wesmere/units/Ranger_Invisible.cfg:19
 #, fuzzy
@@ -4063,7 +4016,7 @@ msgstr ""
 
 #: Legend_of_Wesmere/units/Sharpshooter_Invisible.cfg:4
 msgid "Elvish Sharpshooter Invisible"
-msgstr "Niewidzialni strzelcy elfów."
+msgstr "Niewidzialny strzelec elfów"
 
 #: Legend_of_Wesmere/units/Sharpshooter_Invisible.cfg:20
 #, fuzzy
@@ -4202,9 +4155,8 @@ msgid "No! it's all over!"
 msgstr "Nie! To koniec!"
 
 #: Legend_of_Wesmere/utils/deaths.cfg:278
-#, fuzzy
 msgid "Invincible Zorlan is dead? Quick, run for your lives!"
-msgstr "Niezwyciężony Karun Czarne Oko nie żyje? Ratuj się kto może!"
+msgstr "Niezwyciężony Zorlan nie żyje? Ratuj się kto może!"
 
 #: Legend_of_Wesmere/utils/deaths.cfg:284
 msgid "You will terrorize Wesnoth no more!"
