@@ -3,14 +3,13 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-03-17 14:17+0100\n"
-"PO-Revision-Date: 2006-12-17 11:46+0100\n"
-"Last-Translator: Guillaume MASSART <massart.guillaume@wanadoo.fr>\n"
+"PO-Revision-Date: 2008-04-20 19:50+0100\n"
+"Last-Translator: Damien J <guydelatourATgloireetpouvoirPTcom>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Poedit-Bookmarks: -1,240,-1,-1,-1,-1,-1,-1,-1,-1\n"
 
 #. campaign
 #: Legend_of_Wesmere.cfg:13
@@ -49,25 +48,25 @@ msgstr "Haut Seigneur"
 
 #. campaign
 #: Legend_of_Wesmere.cfg:21
-#, fuzzy
 msgid ""
 "Follow the story of the Kalenz and the Elves in Wesnoth and their fight for "
 "survival from the second orcish invasion to the times of Konrad and Delfador"
 "(Version 1.4.5, 24 fighting scenaria, 32 total, COMPLETE)"
 msgstr ""
-"Suivez l'histoire de Kalenz et des elfes à travers Wesnoth et leur combat "
-"pour survivre, depuis la deuxième invasion des orcs jusqu'à l'époque de "
-"Konrad et Delfador"
+"Suivez l'histoire de Kalenz et des elfes à travers Wesnoth, et suivez leur "
+"combat pour survivre depuis la deuxième invasion des orcs jusqu'à l'époque "
+"de Konrad et de Delfador (Version 1.4.5, 32 scénarios au total dont 24 de "
+"combats, campagne terminée)."
 
 #. about
 #: Legend_of_Wesmere.cfg:24
 msgid "Campaign designer"
-msgstr ""
+msgstr "Conception de la campagne"
 
 #. about
 #: Legend_of_Wesmere.cfg:29
 msgid "Miscellaneous"
-msgstr ""
+msgstr "Divers"
 
 #. about
 #: Legend_of_Wesmere.cfg:31
@@ -77,6 +76,11 @@ msgid ""
 "testers who contributed to bug fixes and gameplay improvements and all the "
 "great artists who made some great portraits."
 msgstr ""
+"\n"
+"Merci à Scott, à Dacyn, à Zookeeper et à beaucoup d'autres pour leur aide "
+"pour le WML, aux testeurs qui ont permis la correction de bogues et "
+"l'amélioration de la jouabilité, et aux grands artistes qui ont dessiné de "
+"splendides illustrations."
 
 #. scenario
 #: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:4
@@ -121,22 +125,22 @@ msgstr ""
 #. side: description=Kalenz, type=Elvish Fighter
 #: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:53
 msgid "Kalenz"
-msgstr ""
+msgstr "Kalenz"
 
 #. side: type=Elvish Elder, description=Velon
 #: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:73
 msgid "Velon"
-msgstr ""
+msgstr "Velon"
 
 #. side: type=Orcish Warrior, description=Qumseh
 #: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:160
 msgid "Qumseh"
-msgstr ""
+msgstr "Qumseh"
 
 #. side: type=Orcish Warrior, description=Graur-Tan
 #: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:193
 msgid "Graur-Tan"
-msgstr ""
+msgstr "Graur-Tan"
 
 #. objective: condition=win
 #: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:235
@@ -235,7 +239,7 @@ msgstr ""
 #. message: description=Qumseh
 #: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:267
 msgid "Surrender or die, filthy elves!"
-msgstr "Rendez-vous ou vous mourrez, sales elfes !"
+msgstr "Rendez-vous ou vous mourez, sales elfes !"
 
 #. message: description=Velon
 #: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:272
@@ -255,9 +259,8 @@ msgstr ""
 #: Legend_of_Wesmere/scenarios/23_End_of_War.cfg:47
 #: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:283
 #: Legend_of_Wesmere/scenarios/22_Northern_Battle.cfg:65
-#, fuzzy
 msgid "Landar"
-msgstr "Vaincre Landar"
+msgstr "Landar"
 
 #. message: description=Landar
 #: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:300
@@ -280,7 +283,7 @@ msgstr ""
 #. unit: type=Elvish Fighter, description=Andulias
 #: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:315
 msgid "Andulias"
-msgstr ""
+msgstr "Andulias"
 
 #. message: description=Andulias
 #: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:329
@@ -330,7 +333,6 @@ msgstr "Vous n'irez pas bien loin ! À leurs trousses !"
 
 #. scenario
 #: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:4
-#, fuzzy
 msgid "Hostile mountains"
 msgstr "Montagnes hostiles"
 
@@ -351,13 +353,12 @@ msgstr ""
 #: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:57
 #: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:648
 msgid "Olurf"
-msgstr ""
+msgstr "Olurf"
 
 #. side: type=Troll Warrior, description=Grugl
 #: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:81
-#, fuzzy
 msgid "Grugl"
-msgstr "Hrugt"
+msgstr "Grugl"
 
 #. objective: condition=lose
 #: Legend_of_Wesmere/scenarios/06_Aquaintance_in_Need.cfg:176
@@ -411,7 +412,7 @@ msgstr ""
 "Et qui aurait besoin de votre aide de toute manière, avortons ? Partez "
 "maintenant, ou tâtez de ma hache ! Quiconque pénétrera en territoire nain en "
 "tâtera également. Nous ne craignons personne. Quiconque mettra un pied sur "
-"la rive est le regrettera vraiment !"
+"la rive orientale le regrettera vraiment !"
 
 #. message: description=Landar
 #: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:203
@@ -457,7 +458,7 @@ msgstr "Nous avons réussi ! En avant pour Wesmere !"
 #. message: description=Olurf
 #: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:310
 msgid "Crazy Elves! But at least they helped us with the trolls"
-msgstr "Ces fous d'elfes ! Mais au moins ils nous ont aidé contre les trolls."
+msgstr "Ces fous d'elfes ! Mais au moins ils nous ont aidés contre les trolls."
 
 #. scenario
 #: Legend_of_Wesmere/scenarios/03_Kalian.cfg:4
@@ -481,17 +482,17 @@ msgstr ""
 #: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:61
 #: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:440
 msgid "Galtrid"
-msgstr ""
+msgstr "Galtrid"
 
 #. side: type=Orcish Warlord, description=Mutaf-uru
 #: Legend_of_Wesmere/scenarios/03_Kalian.cfg:69
 msgid "Mutaf-uru"
-msgstr ""
+msgstr "Mutaf-uru"
 
 #. side: type=Orcish Warlord, description=Murudin
 #: Legend_of_Wesmere/scenarios/03_Kalian.cfg:104
 msgid "Murudin"
-msgstr ""
+msgstr "Murudin"
 
 #. objective: condition=win
 #: Legend_of_Wesmere/scenarios/04_Elvish_Treasury.cfg:107
@@ -565,7 +566,7 @@ msgstr "Nous avons gagné ! Le Ka'lian est en sécurité !"
 #. unit: description=Huraldur, type=Elvish Scout
 #: Legend_of_Wesmere/scenarios/03_Kalian.cfg:217
 msgid "Huraldur"
-msgstr ""
+msgstr "Huraldur"
 
 #. message: description=Huraldur
 #: Legend_of_Wesmere/scenarios/03_Kalian.cfg:234
@@ -598,25 +599,24 @@ msgstr ""
 #. scenario
 #: Legend_of_Wesmere/scenarios/04_Elvish_Treasury.cfg:4
 msgid "The Elvish Treasury"
-msgstr "La Salle du Trésor elfique"
+msgstr "Le Trésor des elfes"
 
 #. part
 #: Legend_of_Wesmere/scenarios/04_Elvish_Treasury.cfg:20
 msgid "Kalenz and his forces raced to help the Elvish Treasury..."
 msgstr ""
-"Kalenz et ses forces se précipitèrent au secours de la salle du Trésor "
-"elfique..."
+"Kalenz et ses forces se précipitèrent au secours de la salle du trésor des "
+"elfes..."
 
 #. side: type=Saurian Ambusher, description=Shurm
 #: Legend_of_Wesmere/scenarios/04_Elvish_Treasury.cfg:44
 msgid "Shurm"
-msgstr ""
+msgstr "Shurm"
 
 #. side: type=Saurian Ambusher, description=Trigr
 #: Legend_of_Wesmere/scenarios/04_Elvish_Treasury.cfg:66
-#, fuzzy
 msgid "Trigr"
-msgstr "Tralg"
+msgstr "Trigr"
 
 #. objective: condition=lose
 #: Legend_of_Wesmere/scenarios/04_Elvish_Treasury.cfg:119
@@ -647,7 +647,7 @@ msgstr "Mort de Cléodil"
 msgid ""
 "It seems that we are too late. The Treasury has fallen to the Saurians...."
 msgstr ""
-"Il semble que nous arrivons trop tard. La salle du Trésor est tombée aux "
+"Il semble que nous arrivons trop tard. La salle du trésor est tombée aux "
 "mains des sauriens..."
 
 #. message: description=Huraldur
@@ -681,24 +681,23 @@ msgstr "Vous ne vivrez pas assez longtemps pour en profiter !"
 
 #. unit: description=Cleodil, type=Elvish Shyde
 #: Legend_of_Wesmere/scenarios/04_Elvish_Treasury.cfg:175
-#, fuzzy
 msgid "Cleodil"
-msgstr "Pas Cléodil !"
+msgstr "Cléodil"
 
 #. unit: description=Arkildur, type=Elvish Fighter
 #: Legend_of_Wesmere/scenarios/04_Elvish_Treasury.cfg:191
 msgid "Arkildur"
-msgstr ""
+msgstr "Arkildur"
 
 #. unit: description=Tameril-Isimeril, type=Elvish Archer
 #: Legend_of_Wesmere/scenarios/04_Elvish_Treasury.cfg:204
 msgid "Tameril-Isimeril"
-msgstr ""
+msgstr "Tameril-Isimeril"
 
 #. unit: description=Laril, type=Elvish Archer
 #: Legend_of_Wesmere/scenarios/04_Elvish_Treasury.cfg:217
 msgid "Laril"
-msgstr ""
+msgstr "Laril"
 
 #. message: description=Cleodil
 #: Legend_of_Wesmere/scenarios/04_Elvish_Treasury.cfg:230
@@ -714,6 +713,8 @@ msgstr ""
 #: Legend_of_Wesmere/scenarios/04_Elvish_Treasury.cfg:264
 msgid "Without their leaders the Saurians flee in panic. Free the garrison!"
 msgstr ""
+"Privés de leurs chefs, les sauriens s'enfuieront paniqués. Libérez la "
+"garnison !"
 
 #. message: description=Kalenz
 #: Legend_of_Wesmere/scenarios/04_Elvish_Treasury.cfg:274
@@ -755,7 +756,7 @@ msgstr ""
 #. scenario
 #: Legend_of_Wesmere/scenarios/05_Saurian_Treasury.cfg:4
 msgid "The Saurian Treasury"
-msgstr "La salle du Trésor saurien"
+msgstr "Le Trésor des sauriens"
 
 #. message: speaker=narrator
 #: Legend_of_Wesmere/scenarios/05_Saurian_Treasury.cfg:19
@@ -773,21 +774,20 @@ msgstr ""
 
 #. side: type=Saurian Ambusher, description=Hraurg
 #: Legend_of_Wesmere/scenarios/05_Saurian_Treasury.cfg:61
-#, fuzzy
 msgid "Hraurg"
-msgstr "Hrugt"
+msgstr "Hraurg"
 
 #. side: type=Saurian Ambusher, description=Spahr
 #. side: type=Saurian Flanker, description=Spahr
 #: Legend_of_Wesmere/scenarios/05_Saurian_Treasury.cfg:84
 #: Legend_of_Wesmere/scenarios/19_Costly_Revenge.cfg:50
 msgid "Spahr"
-msgstr ""
+msgstr "Spahr"
 
 #. objective: condition=win
 #: Legend_of_Wesmere/scenarios/05_Saurian_Treasury.cfg:111
 msgid "Enter the Saurian Treasury and leave with the gold"
-msgstr "Entrer dans la salle du Trésor saurien et repartir avec l'or"
+msgstr "Entrer dans la salle du trésor des sauriens et repartir avec l'or"
 
 #. message: description=Kalenz
 #: Legend_of_Wesmere/scenarios/05_Saurian_Treasury.cfg:170
@@ -795,7 +795,7 @@ msgid ""
 "There they are. They have transferred our gold to their treasury. We must "
 "strike quickly and leave with the gold before they bring in reinforcements"
 msgstr ""
-"Les voilà. Ils ont transféré notre or dans leur salle du Trésor. Nous devons "
+"Les voilà. Ils ont transféré notre or dans leur salle du trésor. Nous devons "
 "frapper vite et repartir avec l'or avant qu'ils n'amènent des renforts."
 
 #. message: description=Hraurg
@@ -812,13 +812,13 @@ msgstr ""
 msgid ""
 "We got to the treasury. It was much easier than we thought...What's this?"
 msgstr ""
-"Nous avons atteint la salle du Trésor. C'était beaucoup plus facile que nous "
+"Nous avons atteint la salle du trésor. C'était beaucoup plus facile que nous "
 "ne le pensions... Qu'est-ce que c'est ?"
 
 #. message: description=Swirh
 #: Legend_of_Wesmere/scenarios/05_Saurian_Treasury.cfg:209
 msgid "Swirh"
-msgstr ""
+msgstr "Swirh"
 
 #. message: description=Swirh
 #: Legend_of_Wesmere/scenarios/05_Saurian_Treasury.cfg:210
@@ -1018,27 +1018,27 @@ msgstr ""
 #. side: type=Elvish Marshal, description=El'Isomithir
 #: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:74
 msgid "El'Isomithir"
-msgstr ""
+msgstr "El'Isomithir"
 
 #. side: type=Orcish Warlord, description=Mordrum
 #: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:87
 msgid "Mordrum"
-msgstr ""
+msgstr "Mordrum"
 
 #. side: type=Orcish Warlord, description=Urug-Pir
 #: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:124
 msgid "Urug-Pir"
-msgstr ""
+msgstr "Urug-Pir"
 
 #. side: type=Troll Warrior, description=Truugl
 #: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:164
 msgid "Truugl"
-msgstr ""
+msgstr "Truugl"
 
 #. side: type=Orcish Warlord, description=Grubr
 #: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:198
 msgid "Grubr"
-msgstr ""
+msgstr "Grubr"
 
 #. message: description=Kalenz
 #: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:436
@@ -1086,7 +1086,7 @@ msgid ""
 "We still haven't defeated the orcs and our troops and supplies are "
 "exhausted. This is the end!"
 msgstr ""
-"Nous n'avons toujours pas vaincu les orcs et nos troupes et notre "
+"Nous n'avons toujours pas vaincu les orcs, et nos troupes et notre "
 "approvisionnement sont épuisés. C'est la fin !"
 
 #. message: speaker=unit
@@ -1122,7 +1122,7 @@ msgstr "Enfin ! Les orcs sont vaincus."
 #. message: description=Pirorr
 #: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:623
 msgid "Pirorr"
-msgstr ""
+msgstr "Pirorr"
 
 #. message: description=Pirorr
 #: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:624
@@ -1144,41 +1144,38 @@ msgstr ""
 #. unit: description=Bulrod, type=Dwarvish Steelclad
 #: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:662
 msgid "Bulrod"
-msgstr ""
+msgstr "Bulrod"
 
 #. unit: description=Simclon, type=Dwarvish Thunderer
 #: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:674
 msgid "Simclon"
-msgstr ""
+msgstr "Simclon"
 
 #. unit: description=Harald, type=Dwarvish Berserker
 #: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:687
-#, fuzzy
 msgid "Harald"
-msgstr "(difficile)"
+msgstr "Harald"
 
 #. unit: description=Budrin, type=Dwarvish Berserker
 #: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:700
 msgid "Budrin"
-msgstr ""
+msgstr "Budrin"
 
 #. unit: description=Dudan, type=Dwarvish Fighter
 #: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:713
-#, fuzzy
 msgid "Dudan"
-msgstr "Dran"
+msgstr "Dudan"
 
 #. unit: description=Korbun, type=Dwarvish Fighter
 #: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:726
 msgid "Korbun"
-msgstr ""
+msgstr "Korbun"
 
 #. unit: description=Merhun, type=Dwarvish Berserker
 #: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:739
 msgid "Merhun"
-msgstr ""
+msgstr "Merhun"
 
-# faire mumuse, c'est de l'humour nain ;)
 #. message: description=Olurf
 #: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:755
 msgid "Thought we'd let you have all the fun with the orcs by yourselves?"
@@ -1277,19 +1274,19 @@ msgstr "Le Conseil des choix ardus"
 #: Legend_of_Wesmere/scenarios/20_Council_ruling.cfg:48
 #: Legend_of_Wesmere/scenarios/08_Council_of_hard_choices.cfg:31
 msgid "Uripur"
-msgstr ""
+msgstr "Uripur"
 
 #. side: type=Elvish Lord, description=Iradia
 #: Legend_of_Wesmere/scenarios/20_Council_ruling.cfg:65
 #: Legend_of_Wesmere/scenarios/08_Council_of_hard_choices.cfg:51
 msgid "Iradia"
-msgstr ""
+msgstr "Iradia"
 
 #. side: type=Elvish Lord, description=Legmir
 #: Legend_of_Wesmere/scenarios/20_Council_ruling.cfg:74
 #: Legend_of_Wesmere/scenarios/08_Council_of_hard_choices.cfg:60
 msgid "Legmir"
-msgstr ""
+msgstr "Legmir"
 
 #. message: description=Iradia
 #: Legend_of_Wesmere/scenarios/08_Council_of_hard_choices.cfg:81
@@ -1455,12 +1452,12 @@ msgstr ""
 #. side: type=Saurian Flanker, description=Huurgh
 #: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:52
 msgid "Huurgh"
-msgstr ""
+msgstr "Huurgh"
 
 #. side: type=Saurian Ambusher, description=Shhar
 #: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:76
 msgid "Shhar"
-msgstr ""
+msgstr "Shhar"
 
 #. objective: condition=win
 #: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:135
@@ -1526,7 +1523,7 @@ msgid ""
 "probably just fairy tales."
 msgstr ""
 "En effet, cette rivière est, je crois, Arkan-Thoria. Nombre de légendes "
-"sinistres circulent à son sujet, alors soyez prudent lorsque vous la "
+"sinistres circulent à son sujet, alors soyez prudents lorsque vous la "
 "traverserez, même s'il s'agit sans doute seulement de contes de fées."
 
 #. message: speaker=unit
@@ -1566,12 +1563,11 @@ msgstr "Kallub"
 msgid "They are coming at us from all sides!"
 msgstr "Ils nous assaillent de toutes parts !"
 
-#  ???
 #. event
 #: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:355
 #: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:389
 msgid "Scardeep"
-msgstr "Balafre"
+msgstr "Scardeep"
 
 #. message: speaker=unit
 #: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:359
@@ -1603,12 +1599,12 @@ msgstr ""
 #. side: type=Troll Warrior, description=Tafrul
 #: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:49
 msgid "Tafrul"
-msgstr ""
+msgstr "Tafrul"
 
 #. side: type=Gryphon, description=Gryphon King
 #: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:78
 msgid "Gryphon King"
-msgstr ""
+msgstr "Roi griffon"
 
 #. objective: condition=win
 #: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:119
@@ -1622,7 +1618,6 @@ msgstr ""
 "J'ai du mal à distinguer quoi que ce soit avec toute cette brume, mais je "
 "peux sentir un danger."
 
-# J'aime bien elfounet pour elf-boy, mais bon, d'autres trouveront que je pousse un peu ?
 #. message: description=Olurf
 #: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:203
 msgid ""
@@ -1713,19 +1708,18 @@ msgstr ""
 #. side: type=Drake Mage, description=Aquagar
 #: Legend_of_Wesmere/scenarios/11_Battle_of_the_book.cfg:46
 msgid "Aquagar"
-msgstr ""
+msgstr "Aquagar"
 
 #. side: type=Elder Mage, description=Crelanu
 #: Legend_of_Wesmere/scenarios/11_Battle_of_the_book.cfg:59
 #: Legend_of_Wesmere/scenarios/12_Revelations.cfg:32
-#, fuzzy
 msgid "Crelanu"
-msgstr "Mort de Crelanu"
+msgstr "Crelanu"
 
 #. side: type=Troll Warrior, description=Trigrul
 #: Legend_of_Wesmere/scenarios/11_Battle_of_the_book.cfg:72
 msgid "Trigrul"
-msgstr ""
+msgstr "Trigrul"
 
 #. objective: condition=win
 #: Legend_of_Wesmere/scenarios/11_Battle_of_the_book.cfg:94
@@ -2207,7 +2201,7 @@ msgstr "D'accord, Landar, mais sois prudent. Nous avons besoin de toi."
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:228
 #: Legend_of_Wesmere/scenarios/13_News_from_the_front.cfg:126
 msgid "Eonihar"
-msgstr ""
+msgstr "Eonihar"
 
 #. message: description=Eonihar
 #: Legend_of_Wesmere/scenarios/13_News_from_the_front.cfg:139
@@ -2278,7 +2272,7 @@ msgstr ""
 "Allez dire au conseil et au roi humain que nous serons là ! Maintenant "
 "dépêchons-nous !"
 
-# A traduire ? Pourquoi l'underscore ?
+# Pourquoi l'underscore ?
 #. scenario
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:4
 msgid "Ancient_Alliance"
@@ -2296,28 +2290,27 @@ msgstr ""
 #: Legend_of_Wesmere/scenarios/15_The_Treaty.cfg:40
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:51
 msgid "Aldar"
-msgstr ""
+msgstr "Aldar"
 
 #. side: type=Orcish Warlord, description=Pirror
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:72
 msgid "Pirror"
-msgstr ""
+msgstr "Pirror"
 
 #. side: type=Orcish Warlord, description=Tan-Grub
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:107
 msgid "Tan-Grub"
-msgstr ""
+msgstr "Tan-Grub"
 
 #. side: type=Troll Warrior, description=Grol
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:142
-#, fuzzy
 msgid "Grol"
-msgstr "Pribol"
+msgstr "Grol"
 
 #. side: type=Orcish Warlord, description=Khafa-Urg
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:173
 msgid "Khafa-Urg"
-msgstr ""
+msgstr "Khafa-Urg"
 
 #. objective: condition=win
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:214
@@ -2342,7 +2335,7 @@ msgstr "C'est donc vrai ! Les elfes sont venus à notre secours !"
 #. unit: description=Aldun, type=Horseman
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:290
 msgid "Aldun"
-msgstr ""
+msgstr "Aldun"
 
 #. message: description=Aldun
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:300
@@ -2367,39 +2360,37 @@ msgstr ""
 #. unit: description=Kutrubekis, type=Elvish Hero
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:366
 msgid "Kutrubekis"
-msgstr ""
+msgstr "Kutrubekis"
 
 #. unit: description=Artolas, type=Elvish Archer
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:379
-#, fuzzy
 msgid "Artolas"
-msgstr "Enfin !"
+msgstr "Artolas"
 
 #. unit: description=Irglus, type=Elvish Scout
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:391
-#, fuzzy
 msgid "Irglus"
-msgstr "Gliglus"
+msgstr "Irglus"
 
 #. unit: description=Antomeril, type=Elvish Fighter
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:399
 msgid "Antomeril"
-msgstr ""
+msgstr "Antomeril"
 
 #. unit: description=Lirdomer, type=Elvish Fighter
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:411
 msgid "Lirdomer"
-msgstr ""
+msgstr "Lirdomer"
 
 #. unit: description=Eomil, type=Elvish Archer
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:423
 msgid "Eomil"
-msgstr ""
+msgstr "Eomil"
 
 #. unit: description=Toltilas, type=Elvish Archer
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:435
 msgid "Toltilas"
-msgstr ""
+msgstr "Toltilas"
 
 #. message: description=Kutrubekis
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:448
@@ -2423,48 +2414,47 @@ msgstr ""
 #. unit: description=Kulrad, type=Paladin
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:471
 msgid "Kulrad"
-msgstr ""
+msgstr "Kulrad"
 
 #. unit: description=Aronas, type=Horseman
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:479
 msgid "Aronas"
-msgstr ""
+msgstr "Aronas"
 
 #. unit: description=Halard, type=Knight
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:487
-#, fuzzy
 msgid "Halard"
-msgstr "(difficile)"
+msgstr "Halard"
 
 #. unit: description=Insith, type=Horseman
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:496
 msgid "Insith"
-msgstr ""
+msgstr "Insith"
 
 #. unit: description=Aladan, type=Horseman
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:505
 msgid "Aladan"
-msgstr ""
+msgstr "Aladan"
 
 #. unit: description=Korrigan, type=Knight
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:514
 msgid "Korrigan"
-msgstr ""
+msgstr "Korrigan"
 
 #. unit: description=Prager, type=Horseman
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:523
 msgid "Prager"
-msgstr ""
+msgstr "Prager"
 
 #. unit: description=Mirqas, type=Horseman
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:532
 msgid "Mirqas"
-msgstr ""
+msgstr "Mirqas"
 
 #. unit: description=Undor, type=Horseman
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:541
 msgid "Undor"
-msgstr ""
+msgstr "Undor"
 
 #. message: description=Kulrad
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:552
@@ -2499,7 +2489,7 @@ msgstr "Le Traité"
 #. side: type=Noble Lord, description=Haldric II
 #: Legend_of_Wesmere/scenarios/15_The_Treaty.cfg:30
 msgid "Haldric II"
-msgstr ""
+msgstr "Haldric II"
 
 #. message: description=Haldric II
 #: Legend_of_Wesmere/scenarios/15_The_Treaty.cfg:64
@@ -2639,22 +2629,22 @@ msgstr ""
 #. side: type=Orcish Sovereign, description=King Brurbar
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:61
 msgid "King Brurbar"
-msgstr ""
+msgstr "Roi Brurbar"
 
 #. side: type=Orcish Warlord, description=Khrubar
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:119
 msgid "Khrubar"
-msgstr ""
+msgstr "Khrubar"
 
 #. side: type=Orcish Warlord, description=Gvur
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:149
 msgid "Gvur"
-msgstr ""
+msgstr "Gvur"
 
 #. side: type=Orcish Warlord, description=Ozul
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:181
 msgid "Ozul"
-msgstr ""
+msgstr "Ozul"
 
 #. objective: condition=win
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:237
@@ -2665,192 +2655,183 @@ msgstr ""
 
 #. unit: type=Orcish Grunt, description=Grut
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:267
-#, fuzzy
 msgid "Grut"
-msgstr "Hrugt"
+msgstr "Grut"
 
 #. unit: type=Orcish Grunt, description=Krolru
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:275
 msgid "Krolru"
-msgstr ""
+msgstr "Krolru"
 
 #. unit: type=Orcish Warrior, description=Kryl
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:283
-#, fuzzy
 msgid "Kryl"
-msgstr "Krulg"
+msgstr "Kryl"
 
 #. unit: type=Orcish Crossbowman, description=Erdug
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:291
-#, fuzzy
 msgid "Erdug"
-msgstr "Hrugt"
+msgstr "Erdug"
 
 #. unit: type=Orcish Warrior, description=Urdol
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:299
-#, fuzzy
 msgid "Urdol"
-msgstr "Urlg"
+msgstr "Urdol"
 
 #. unit: type=Orcish Warrior, description=Tan-Drur
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:307
 msgid "Tan-Drur"
-msgstr ""
+msgstr "Tan-Drur"
 
 #. unit: type=Orcish Crossbowman, description=Brim
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:315
 msgid "Brim"
-msgstr ""
+msgstr "Brim"
 
 #. unit: type=Orcish Grunt, description=Krud
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:323
-#, fuzzy
 msgid "Krud"
-msgstr "Krulg"
+msgstr "Krud"
 
 #. unit: type=Orcish Warrior, description=Krulr
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:331
-#, fuzzy
 msgid "Krulr"
-msgstr "Krulg"
+msgstr "Krulr"
 
 #. unit: type=Orcish Warrior, description=Draglar
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:339
 msgid "Draglar"
-msgstr ""
+msgstr "Draglar"
 
 #. unit: type=Orcish Warrior, description=Qmrun
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:349
 msgid "Qmrun"
-msgstr ""
+msgstr "Qmrun"
 
 #. unit: type=Goblin Pillager, description=Kartrog
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:358
 msgid "Kartrog"
-msgstr ""
+msgstr "Kartrog"
 
 #. unit: type=Goblin Impaler, description=Erdog
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:366
 msgid "Erdog"
-msgstr ""
+msgstr "Erdog"
 
 #. unit: type=Wolf Rider, description=Griul
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:374
-#, fuzzy
 msgid "Griul"
-msgstr "Krulg"
+msgstr "Griul"
 
 #. unit: type=Goblin Knight, description=Sdrul
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:382
-#, fuzzy
 msgid "Sdrul"
-msgstr "Krulg"
+msgstr "Sdrul"
 
 #. unit: type=Goblin Spearman, description=Sbrak
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:390
 msgid "Sbrak"
-msgstr ""
+msgstr "Sbrak"
 
 #. unit: type=Goblin Spearman, description=Urdum
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:398
 msgid "Urdum"
-msgstr ""
+msgstr "Urdum"
 
 #. unit: type=Goblin Impaler, description=Ozdul
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:406
 msgid "Ozdul"
-msgstr ""
+msgstr "Ozdul"
 
 #. unit: type=Goblin Impaler, description=Zuzerd
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:414
 msgid "Zuzerd"
-msgstr ""
+msgstr "Zuzerd"
 
 #. unit: type=Orcish Archer, description=Egrok
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:421
 msgid "Egrok"
-msgstr ""
+msgstr "Egrok"
 
 #. unit: type=Orcish Assassin, description=Urbrus
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:428
 msgid "Urbrus"
-msgstr ""
+msgstr "Urbrus"
 
 #. unit: type=Orcish Slayer, description=Erbru
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:435
 msgid "Erbru"
-msgstr ""
+msgstr "Erbru"
 
 #. unit: type=Goblin Knight, description=Muhtr
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:442
 msgid "Muhtr"
-msgstr ""
+msgstr "Muhtr"
 
 #. unit: type=Orcish Warrior, description=Muhmr
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:452
 msgid "Muhmr"
-msgstr ""
+msgstr "Muhmr"
 
 #. unit: type=Wolf Rider, description=Etruw
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:460
 msgid "Etruw"
-msgstr ""
+msgstr "Etruw"
 
 #. unit: type=Direwolf Rider, description=Utrub
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:468
 msgid "Utrub"
-msgstr ""
+msgstr "Utrub"
 
 #. unit: type=Goblin Pillager, description=Bihlas
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:476
 msgid "Bihlas"
-msgstr ""
+msgstr "Bihlas"
 
 #. unit: type=Goblin Pillager, description=Odrun
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:485
 msgid "Odrun"
-msgstr ""
+msgstr "Odrun"
 
 #. unit: type=Orcish Crossbowman, description=Cfrul
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:493
-#, fuzzy
 msgid "Cfrul"
-msgstr "Krulg"
+msgstr "Cfrul"
 
 #. unit: type=Orcish Crossbowman, description=Irkrul
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:501
 msgid "Irkrul"
-msgstr ""
+msgstr "Irkrul"
 
 #. unit: type=Orcish Grunt, description=Cebrun
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:509
 msgid "Cebrun"
-msgstr ""
+msgstr "Cebrun"
 
 #. unit: type=Orcish Grunt, description=Krundrum
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:517
 msgid "Krundrum"
-msgstr ""
+msgstr "Krundrum"
 
 #. unit: type=Orcish Grunt, description=Arrkud
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:525
 msgid "Arrkud"
-msgstr ""
+msgstr "Arrkud"
 
 #. unit: type=Orcish Grunt, description=Gulmod
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:533
 msgid "Gulmod"
-msgstr ""
+msgstr "Gulmod"
 
 #. unit: type=Direwolf Rider, description=Gragul
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:541
 msgid "Gragul"
-msgstr ""
+msgstr "Gragul"
 
 #. unit: type=Goblin Pillager, description=Kardur
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:549
 msgid "Kardur"
-msgstr ""
+msgstr "Kardur"
 
 #. message: description=Kalenz
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:558
@@ -2943,10 +2924,8 @@ msgstr ""
 msgid "The plan is working! Now we take back what's ours!"
 msgstr "Le plan fonctionne ! Maintenant reprenons ce qui nous appartient !"
 
-# à traduire ? pourquoi les underscores ?
 #. scenario
 #: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:5
-#, fuzzy
 msgid "Breaking the siege"
 msgstr "Briser le siège"
 
@@ -2967,27 +2946,25 @@ msgstr ""
 
 #. side: type=Orcish Warlord, description=Mbiran
 #: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:49
-#, fuzzy
 msgid "Mbiran"
-msgstr "Dran"
+msgstr "Mbiran"
 
 #. side: type=Orcish Warlord, description=Tan-Durr
 #: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:82
 msgid "Tan-Durr"
-msgstr ""
+msgstr "Tan-Durr"
 
 #. side: type=Orcish Warlord, description=Kior-Pur
 #: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:122
 msgid "Kior-Pur"
-msgstr ""
+msgstr "Kior-Pur"
 
 #. side: type=Elvish Marshal, description=Uradredia
 #: Legend_of_Wesmere/scenarios/20_Council_ruling.cfg:56
 #: Legend_of_Wesmere/scenarios/22_Northern_Battle.cfg:51
 #: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:160
-#, fuzzy
 msgid "Uradredia"
-msgstr "Mort d'Uradredia"
+msgstr "Uradredia"
 
 #. objective: condition=lose
 #: Legend_of_Wesmere/scenarios/22_Northern_Battle.cfg:152
@@ -3162,7 +3139,7 @@ msgstr ""
 #. side: type=Saurian Flanker, description=Hgyr
 #: Legend_of_Wesmere/scenarios/19_Costly_Revenge.cfg:73
 msgid "Hgyr"
-msgstr ""
+msgstr "Hgyr"
 
 #. message: description=Kalenz
 #: Legend_of_Wesmere/scenarios/19_Costly_Revenge.cfg:156
@@ -3300,20 +3277,19 @@ msgstr ""
 
 #. side: type=Elvish Ranger, description=Antaril
 #: Legend_of_Wesmere/scenarios/21_Elvish_Assasins.cfg:60
-#, fuzzy
 msgid "Antaril"
-msgstr "Athburil"
+msgstr "Antaril"
 
 #. side: type=Elvish Captain, description=Crintil
 #: Legend_of_Wesmere/scenarios/21_Elvish_Assasins.cfg:72
 #: Legend_of_Wesmere/scenarios/22_Northern_Battle.cfg:99
 msgid "Crintil"
-msgstr ""
+msgstr "Crintil"
 
 #. side: type=Elvish Hero, description=Oblil
 #: Legend_of_Wesmere/scenarios/21_Elvish_Assasins.cfg:108
 msgid "Oblil"
-msgstr ""
+msgstr "Oblil"
 
 #. objective: condition=win
 #: Legend_of_Wesmere/scenarios/21_Elvish_Assasins.cfg:151
@@ -3324,9 +3300,8 @@ msgstr "Kalenz atteint le panneau."
 #. message: description=Gailetkis
 #: Legend_of_Wesmere/scenarios/21_Elvish_Assasins.cfg:190
 #: Legend_of_Wesmere/scenarios/21_Elvish_Assasins.cfg:206
-#, fuzzy
 msgid "Gailetkis"
-msgstr "Kletskis"
+msgstr "Gailetkis"
 
 #. message: description=Gailetkis
 #: Legend_of_Wesmere/scenarios/21_Elvish_Assasins.cfg:208
@@ -3430,13 +3405,12 @@ msgstr ""
 
 #. message: description=Landar
 #: Legend_of_Wesmere/scenarios/22_Northern_Battle.cfg:278
-#, fuzzy
 msgid ""
 "We have yet to break their defences! While we are getting weaker the enemy "
 "is getting stronger! Retreat!"
 msgstr ""
-"Nous ne sommes toujours pas parvenus à briser leurs défenses ! Pendant que "
-"nous nous affaiblissons, l'ennemi lui se renforce. Battez en retraite !"
+"Nous devons toujours briser leurs défenses ! Pendant que nous nous "
+"affaiblissons, l'ennemi lui se renforce. Battez en retraite !"
 
 #. message: description=Kalenz
 #: Legend_of_Wesmere/scenarios/22_Northern_Battle.cfg:289
@@ -3603,33 +3577,31 @@ msgstr ""
 #. side: type=Orcish Warlord, description=Knafa-ord
 #: Legend_of_Wesmere/scenarios/25_The_Return_of_Trouble.cfg:56
 msgid "Knafa-ord"
-msgstr ""
+msgstr "Knafa-ord"
 
 #. side: type=Orcish Warlord, description=Tan-drul
 #: Legend_of_Wesmere/scenarios/25_The_Return_of_Trouble.cfg:91
 msgid "Tan-drul"
-msgstr ""
+msgstr "Tan-drul"
 
 #. side: type=Orcish Warlord, description=Krardul
 #: Legend_of_Wesmere/scenarios/25_The_Return_of_Trouble.cfg:125
-#, fuzzy
 msgid "Krardul"
-msgstr "Krulg"
+msgstr "Krardul"
 
 #. side: type=Elvish Captain, description=Clartakis
 #: Legend_of_Wesmere/scenarios/25_The_Return_of_Trouble.cfg:159
 msgid "Clartakis"
-msgstr ""
+msgstr "Clartakis"
 
 #. message: description=Tan-drul
 #: Legend_of_Wesmere/scenarios/25_The_Return_of_Trouble.cfg:227
-#, fuzzy
 msgid ""
 "Kill these filthy elves! All warlords will then accept our leader, Zorlan, "
 "as king and he will reward you all!"
 msgstr ""
-"Tuez ces sales elfes ! Tous les seigneurs de guerre accepteront alors comme "
-"roi notre chef, Karun L'Oeil Noir, et il nous récompensera."
+"Tuez ces sales elfes ! Tous les seigneurs de guerre accepteront alors notre "
+"chef Zorlan comme roi, et il vous récompensera tous !"
 
 #. message: description=Kalenz
 #: Legend_of_Wesmere/scenarios/25_The_Return_of_Trouble.cfg:232
@@ -3646,7 +3618,7 @@ msgstr "Les orcs battent en retraite !"
 #. unit: description=Egonas, type=Elvish Scout
 #: Legend_of_Wesmere/scenarios/25_The_Return_of_Trouble.cfg:260
 msgid "Egonas"
-msgstr ""
+msgstr "Egonas"
 
 #. message: description=Egonas
 #: Legend_of_Wesmere/scenarios/25_The_Return_of_Trouble.cfg:270
@@ -3685,12 +3657,12 @@ msgstr ""
 #. side: type=Orcish Warlord, description=Urug-Telfar
 #: Legend_of_Wesmere/scenarios/26_Mountain_Lake.cfg:73
 msgid "Urug-Telfar"
-msgstr ""
+msgstr "Urug-Telfar"
 
 #. unit: type=Cuttle Fish, description=Big Fish
 #: Legend_of_Wesmere/scenarios/26_Mountain_Lake.cfg:85
 msgid "Big Fish"
-msgstr ""
+msgstr "Gros poisson"
 
 #. message: speaker=Kalenz
 #: Legend_of_Wesmere/scenarios/26_Mountain_Lake.cfg:141
@@ -3704,17 +3676,13 @@ msgstr "Traversée de la rivière"
 
 #. part
 #: Legend_of_Wesmere/scenarios/27_River_crossing.cfg:20
-#, fuzzy
 msgid "Kalenz  moved North to take the fight to Zorlan..."
-msgstr ""
-"Kalenz se dirigea vers le nord pour porter le combat chez Karun L'Oeil "
-"Noir..."
+msgstr "Kalenz se dirigea vers le nord pour porter le combat chez Zorlan..."
 
 #. side: type=Orcish Warlord, description=Brugr
 #: Legend_of_Wesmere/scenarios/27_River_crossing.cfg:50
-#, fuzzy
 msgid "Brugr"
-msgstr "Hrugt"
+msgstr "Brugr"
 
 #. message: description=Kalenz
 #: Legend_of_Wesmere/scenarios/27_River_crossing.cfg:126
@@ -3738,7 +3706,7 @@ msgstr "Maintenant nous pouvons traverser !"
 #. unit: description=Ur-Thorodor, type=Ancient Wose
 #: Legend_of_Wesmere/scenarios/27_River_crossing.cfg:153
 msgid "Ur-Thorodor"
-msgstr ""
+msgstr "Ur-Thorodor"
 
 #. message: speaker=Ur-Thorodor
 #: Legend_of_Wesmere/scenarios/27_River_crossing.cfg:165
@@ -3819,17 +3787,17 @@ msgstr ""
 #. side: type=Death Knight, description=Rudimil
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:46
 msgid "Rudimil"
-msgstr ""
+msgstr "Rudimil"
 
 #. side: type=Necromancer, description=Roth-Malal
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:67
 msgid "Roth-Malal"
-msgstr ""
+msgstr "Roth-Malal"
 
 #. side: type=Necromancer, description=Barth-Malal
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:79
 msgid "Barth-Malal"
-msgstr ""
+msgstr "Barth-Malal"
 
 #. objective: condition=lose
 #: Legend_of_Wesmere/scenarios/29_Save_the_King.cfg:184
@@ -3866,34 +3834,32 @@ msgstr ""
 #. unit: description=Nameless, type=Spectre
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:188
 msgid "Nameless"
-msgstr ""
+msgstr "Inconnu"
 
 #. unit: description=Hraul, type=Spectre
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:196
-#, fuzzy
 msgid "Hraul"
-msgstr "Hrugt"
+msgstr "Hraul"
 
 #. unit: description=Atrag, type=Draug
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:204
-#, fuzzy
 msgid "Atrag"
-msgstr "Tralg"
+msgstr "Atrag"
 
 #. unit: description=Horr, type=Banebow
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:212
 msgid "Horr"
-msgstr ""
+msgstr "Horr"
 
 #. unit: description=Nfrigt, type=Nightgaunt
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:220
 msgid "Nfrigt"
-msgstr ""
+msgstr "Nfrigt"
 
 #. unit: description=Rkrin, type=Revenant
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:228
 msgid "Rkrin"
-msgstr ""
+msgstr "Rkrin"
 
 #. message: description=Rudimil
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:236
@@ -3902,35 +3868,33 @@ msgstr "Nous avons plus d'aide !"
 
 #. unit: description=Haunt, type=Spectre
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:244
-#, fuzzy
 msgid "Haunt"
-msgstr "Hrugt"
+msgstr "Haunt"
 
 #. unit: description=Gdal, type=Spectre
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:252
 msgid "Gdal"
-msgstr ""
+msgstr "Gdal"
 
 #. unit: description=Oltr, type=Draug
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:260
 msgid "Oltr"
-msgstr ""
+msgstr "Oltr"
 
 #. unit: description=Orbl, type=Demilich
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:268
-#, fuzzy
 msgid "Orbl"
-msgstr "Orhtib"
+msgstr "Orbl"
 
 #. unit: description=Nifigt, type=Nightgaunt
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:276
 msgid "Nifigt"
-msgstr ""
+msgstr "Nifigt"
 
 #. unit: description=Dert, type=Deathblade
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:284
 msgid "Dert"
-msgstr ""
+msgstr "Dert"
 
 #. message: description=Rudimil
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:293
@@ -3942,51 +3906,48 @@ msgstr "Et maintenant encore plus d'aide !"
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:300
 #: Legend_of_Wesmere/scenarios/30_Prince_of_Wesnoth.cfg:181
 #: Legend_of_Wesmere/scenarios/30_Prince_of_Wesnoth.cfg:224
-#, fuzzy
 msgid "Delfador"
-msgstr "Mort de Delfador"
+msgstr "Delfador"
 
 #. unit: description=Clogrin, type=Royal Guard
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:313
 msgid "Clogrin"
-msgstr ""
+msgstr "Clogrin"
 
 #. unit: description=Theorsten, type=White Mage
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:323
 msgid "Theorsten"
-msgstr ""
+msgstr "Theorsten"
 
 #. unit: description=Igler, type=White Mage
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:333
 msgid "Igler"
-msgstr ""
+msgstr "Igler"
 
 #. unit: description=Larsin, type=White Mage
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:343
 msgid "Larsin"
-msgstr ""
+msgstr "Larsin"
 
 #. unit: description=Aldrin, type=White Mage
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:354
 msgid "Aldrin"
-msgstr ""
+msgstr "Aldrin"
 
 #. unit: description=Glen, type=Shock Trooper
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:365
 msgid "Glen"
-msgstr ""
+msgstr "Glen"
 
 #. unit: description=Droni, type=Shock Trooper
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:375
-#, fuzzy
 msgid "Droni"
-msgstr "Dran"
+msgstr "Droni"
 
 #. unit: description=Arthur, type=Shock Trooper
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:386
-#, fuzzy
 msgid "Arthur"
-msgstr "Athburil"
+msgstr "Arthur"
 
 #. message: description=Delfador
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:398
@@ -4044,7 +4005,6 @@ msgstr ""
 
 #. message: description=Kalenz
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:429
-#, fuzzy
 msgid ""
 "Our experience \n"
 "with Wesnoth Kings has not been too good. At first we thought it was  that "
@@ -4052,11 +4012,12 @@ msgid ""
 "shielded with  ultrapure gold, they still remain arrogant. But we are "
 "indebted to you, Delfador and we will join you."
 msgstr ""
-"Nos expériences précédentes avec les rois de Wesnoth n'ont pas été très "
-"bonnes. Nous avons d'abord cru que c'était dû à l'absence de revêtement sur "
-"le Rubis de Feu mais, même après en avoir parlé à Haldric et l'avoir "
-"recouvert d'une couche d'or ultrapur, les rois sont restés arrogants. Nous "
-"vous devons cependant une faveur Delfador et nous nous joindrons à vous."
+"Notre estime \n"
+"des rois de Wesnoth n'est pas très bonne. Nous avons d'abord cru que c'était "
+"dû à l'absence de revêtement sur le Rubis de Feu. Mais, même après en avoir "
+"parlé à Haldric, qui l'a recouvert d'une couche d'or ultrapur, les rois sont "
+"restés arrogants. Nous vous devons cependant une faveur, Delfador, et nous "
+"nous joindrons à vous."
 
 #. message: description=Delfador
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:433
@@ -4074,14 +4035,12 @@ msgstr "Sauver le roi"
 
 #. part
 #: Legend_of_Wesmere/scenarios/29_Save_the_King.cfg:20
-#, fuzzy
 msgid ""
 "Following Delfador, the elves moved to unite with the Wesnoth forces and "
 "meet Zorlan head-on..."
 msgstr ""
-"À la suite de Delfador, les elfes firent route vers les forces de Wesnoth "
-"pour se joindre à elles dans un affrontement direct contre Karun L'Oeil "
-"Noir..."
+"Suivant Delfador, les elfes rejoignirent les forces de Wesnoth pour "
+"affronter directement Zorlan..."
 
 #. part
 #: Legend_of_Wesmere/scenarios/29_Save_the_King.cfg:31
@@ -4091,34 +4050,32 @@ msgstr "mais le roi était dans une situation peu enviable..."
 #. side: type=Warrior King, description=Garard
 #: Legend_of_Wesmere/scenarios/29_Save_the_King.cfg:50
 msgid "Garard"
-msgstr ""
+msgstr "Garard"
 
 #. side: type=Orcish Warlord, description=Zorlan
 #: Legend_of_Wesmere/scenarios/29_Save_the_King.cfg:70
-#, fuzzy
 msgid "Zorlan"
-msgstr "Dran"
+msgstr "Zorlan"
 
 #. side: type=Orcish Warrior, description=T'bhan
 #: Legend_of_Wesmere/scenarios/29_Save_the_King.cfg:92
 msgid "T'bhan"
-msgstr ""
+msgstr "T'bhan"
 
 #. side: type=Orcish Warrior, description=Qgthun
 #: Legend_of_Wesmere/scenarios/29_Save_the_King.cfg:113
 msgid "Qgthun"
-msgstr ""
+msgstr "Qgthun"
 
 #. side: type=Great Troll, description=Trgrau
 #: Legend_of_Wesmere/scenarios/29_Save_the_King.cfg:135
 msgid "Trgrau"
-msgstr ""
+msgstr "Trgrau"
 
 #. objective: condition=win
 #: Legend_of_Wesmere/scenarios/29_Save_the_King.cfg:172
-#, fuzzy
 msgid "Defeat Zorlan"
-msgstr "Vaincre Landar"
+msgstr "Vaincre Zorlan"
 
 #. objective: condition=lose
 #: Legend_of_Wesmere/scenarios/29_Save_the_King.cfg:188
@@ -4372,14 +4329,13 @@ msgstr ""
 
 #. side: type=General, description=Eldred
 #: Legend_of_Wesmere/scenarios/30_Prince_of_Wesnoth.cfg:58
-#, fuzzy
 msgid "Eldred"
-msgstr "Vaincre Eldred"
+msgstr "Eldred"
 
 #. side: type=General, description=Lowel
 #: Legend_of_Wesmere/scenarios/30_Prince_of_Wesnoth.cfg:78
 msgid "Lowel"
-msgstr ""
+msgstr "Lowel"
 
 #. objective: condition=win
 #: Legend_of_Wesmere/scenarios/30_Prince_of_Wesnoth.cfg:101
@@ -4481,18 +4437,17 @@ msgstr ""
 #. side: type=Orcish Warrior, description=T'umqin
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:51
 msgid "T'umqin"
-msgstr ""
+msgstr "T'umqin"
 
 #. side: type=Orcish Warlord, description=Ocrhan
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:86
-#, fuzzy
 msgid "Ocrhan"
-msgstr "Dran"
+msgstr "Ocrhan"
 
 #. side: type=Orcish Warlord, description=Vragul
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:119
 msgid "Vragul"
-msgstr ""
+msgstr "Vragul"
 
 #. message: description=Cleodil
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:192
@@ -4506,7 +4461,7 @@ msgstr ""
 #. message: description=Ocrhan
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:196
 msgid "More elves! Attack them and leave no one alive!"
-msgstr "Des elfes supplémentaires ! Attaquez-les et tuez-les tous !"
+msgstr "Encore des elfes ! Attaquez-les et tuez-les tous !"
 
 #. message: description=Kalenz
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:200
@@ -4542,31 +4497,28 @@ msgstr ""
 
 #. unit: type=Orcish Warrior, description=Kfalru
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:253
-#, fuzzy
 msgid "Kfalru"
-msgstr "Kallub"
+msgstr "Kfalru"
 
 #. unit: type=Wolf Rider, description=Grituw
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:261
 msgid "Grituw"
-msgstr ""
+msgstr "Grituw"
 
 #. unit: type=Direwolf Rider, description=Krigrul
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:269
-#, fuzzy
 msgid "Krigrul"
-msgstr "Krulg"
+msgstr "Krigrul"
 
 #. unit: type=Goblin Pillager, description=Orthib
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:277
-#, fuzzy
 msgid "Orthib"
-msgstr "Orhtib"
+msgstr "Orthib"
 
 #. unit: type=Orcish Slayer, description=Ukhtan
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:284
 msgid "Ukhtan"
-msgstr ""
+msgstr "Ukhtan"
 
 #. message: speaker=Vragul
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:290
@@ -4699,9 +4651,8 @@ msgstr ""
 #: Legend_of_Wesmere/units/Marksman_Invisible.cfg:65
 #: Legend_of_Wesmere/units/Sharpshooter_Invisible.cfg:61
 #: Legend_of_Wesmere/units/Elvish_Elder.cfg:28
-#, fuzzy
 msgid "sword"
-msgstr "Seigneur"
+msgstr "épée"
 
 #. attack: type=pierce
 #: Legend_of_Wesmere/units/Archer_Invisible.cfg:46
@@ -4709,7 +4660,7 @@ msgstr "Seigneur"
 #: Legend_of_Wesmere/units/Ranger_Invisible.cfg:71
 #: Legend_of_Wesmere/units/Elvish_Elder.cfg:77
 msgid "bow"
-msgstr ""
+msgstr "arc"
 
 #. unit: race=elf
 #: Legend_of_Wesmere/units/Avenger_Invisible.cfg:4
@@ -4718,7 +4669,6 @@ msgstr "Vengeur elfe invisible"
 
 #. unit: race=elf
 #: Legend_of_Wesmere/units/Avenger_Invisible.cfg:21
-#, fuzzy
 msgid ""
 "Elvish Avengers are extremely skillful and extremely quick, powerful in all "
 "forms of combat. Avengers are considered the best of all woodsmen in "
@@ -4730,28 +4680,29 @@ msgstr ""
 "Les vengeurs elfes sont extrêmement habiles et extrêmement rapides, "
 "excellant dans toutes les formes de combat. Les vengeurs sont considérés "
 "comme les meilleures troupes de Wesnoth en forêt et peuvent tendre des "
-"embuscades à leurs ennemis dans les bois, car ils demeurent cachés aux "
-"regards parmi les arbres jusqu'à ce qu'ils aient attaqué. La probabilité de "
-"toucher des troupes invisibles est très fortement réduite."
+"embuscades à leurs ennemis dans les bois, demeurant cachés parmi les arbres "
+"jusqu'à ce qu'ils attaquent. La probabilité de toucher des troupes "
+"invisibles est très fortement réduite."
 
 #. unit: race=drake
 #: Legend_of_Wesmere/units/Drake_Mage.cfg:18
 msgid "Like all Mages, the Drake Mages are capable of using magic in battle."
 msgstr ""
+"Comme tous les mages, les enchanteurs dracans savent utiliser la magie au "
+"combat."
 
 #. attack: type=impact
 #: Legend_of_Wesmere/units/Drake_Mage.cfg:73
 #: Legend_of_Wesmere/units/Drake_Mage.cfg:182
 msgid "staff"
-msgstr ""
+msgstr "bâton"
 
 #. attack: type=fire
 #: Legend_of_Wesmere/units/Drake_Mage.cfg:123
 #: Legend_of_Wesmere/units/Drake_Mage.cfg:200
 msgid "fire breath"
-msgstr ""
+msgstr "souffle ardent"
 
-# aucune idée du contexte :(
 #. attack: type=cold
 #: Legend_of_Wesmere/units/Drake_Mage.cfg:228
 msgid "ice shot"
@@ -4763,6 +4714,9 @@ msgid ""
 "Elvish Elders are well armored, but not very fast and resilient. They used "
 "to be strong warriors and leaders whose skills have decreased with age"
 msgstr ""
+"Les elfes vénérables sont bien protégés mais assez lents et assez peu "
+"résistants. Ces guerriers autrefois puissants et autoritaires voient leurs "
+"compétences amoindries par l'âge."
 
 #. unit: race=elf
 #: Legend_of_Wesmere/units/High_Lord_Invisible.cfg:4
@@ -4784,7 +4738,7 @@ msgstr ""
 #: Legend_of_Wesmere/units/Lord_Invisible.cfg:48
 #: Legend_of_Wesmere/units/High_Lord_Invisible.cfg:84
 msgid "faerie fire"
-msgstr ""
+msgstr "feu féerique"
 
 #. unit: race=elf
 #: Legend_of_Wesmere/units/Lord_Invisible.cfg:4
@@ -4793,16 +4747,15 @@ msgstr "Seigneur elfe invisible"
 
 #. unit: race=elf
 #: Legend_of_Wesmere/units/Lord_Invisible.cfg:18
-#, fuzzy
 msgid ""
 "The nobility of the elves are possessed of merit to match their standing in "
 "society. Elvish Lords are the wisest and strongest of their people, and are "
 "fearsome in their command of magic. Being invisible to the enemy makes them "
 "very hard to hit"
 msgstr ""
-"Les seigneurs elfes sont redoutables au combat, maniant l'épée au corps à "
-"corps et expédiant des boules de feu dévastatrices à distance. Le fait "
-"d'être invisibles à l'ennemi les rend particulièrement difficiles à toucher."
+"Les elfes de la noblesse possèdent un mérite qui égale leur statut en "
+"société. Les seigneurs elfes sont les plus sages et les plus forts membres "
+"de leur peuple, et sont de redoutables magiciens."
 
 #. unit: race=elf
 #: Legend_of_Wesmere/units/Marksman_Invisible.cfg:4
@@ -4811,7 +4764,6 @@ msgstr "Tireur d'élite elfe invisible"
 
 #. unit: race=elf
 #: Legend_of_Wesmere/units/Marksman_Invisible.cfg:19
-#, fuzzy
 msgid ""
 "Elvish Marksman are expert in use of the bow. Their skill guarantees them a "
 "60% chance to hit enemies, even those hidden in difficult terrain. This "
@@ -4823,13 +4775,13 @@ msgstr ""
 "habileté leur assure 60 % de chances de toucher l'ennemi, même si celui-ci "
 "se cache dans un terrain difficile. Cette grande habileté à l'arc compense "
 "leur manque de maîtrise au corps à corps et leur vitesse réduite. Les unités "
-"invisibles sont particulièrement dures à toucher."
+"invisibles sont particulièrement difficiles à toucher."
 
 #. attack: type=pierce
 #: Legend_of_Wesmere/units/Marksman_Invisible.cfg:74
 #: Legend_of_Wesmere/units/Sharpshooter_Invisible.cfg:70
 msgid "longbow"
-msgstr ""
+msgstr "arc long"
 
 #. unit: race=elf
 #: Legend_of_Wesmere/units/Ranger_Invisible.cfg:3
@@ -4838,7 +4790,6 @@ msgstr "Rôdeur elfe invisible"
 
 #. unit: race=elf
 #: Legend_of_Wesmere/units/Ranger_Invisible.cfg:19
-#, fuzzy
 msgid ""
 "Elvish Rangers are quick and powerful. Skilled in both short- and long-range "
 "combat, Rangers are truly all-round fighters. The best of all woodsmen, "
@@ -4848,9 +4799,9 @@ msgid ""
 "Special Notes:"
 msgstr ""
 "Les rôdeurs elfes sont rapides et puissants. Doués à la fois pour le combat "
-"rapproché et à distance, les rôdeurs sont vraiment des guerriers complets. "
-"Ce sont les meilleures troupes en forêt, où l'ennemi ne peut voir les "
-"rôdeurs qu'après que ceux-ci ont attaqué ou se retrouvent au contact. Les "
+"rapproché et à distance, ce sont vraiment des guerriers complets. Les "
+"rodeurs sont les meilleures troupes en forêt, où l'ennemi ne peut les voir "
+"qu'après qu'ils aient attaqué ou qu'ils se soient retrouvés au contact. Les "
 "unités invisibles sont particulièrement dures à toucher."
 
 #. unit: race=elf
@@ -4860,7 +4811,6 @@ msgstr "Franc-tireur elfe invisible"
 
 #. unit: race=elf
 #: Legend_of_Wesmere/units/Sharpshooter_Invisible.cfg:20
-#, fuzzy
 msgid ""
 "The most elite archers in all of Wesnoth, Elvish Sharpshooters are "
 "incredibly accurate, guaranteed a 60% chance to hit when attacking, even "
@@ -4869,33 +4819,33 @@ msgid ""
 "Special Notes:"
 msgstr ""
 "Représentant une élite très restreinte d'archers dans le monde de Wesnoth, "
-"les francs-tireurs elfes sont d'une précision incroyable, ce qui leur assure "
-"60 % de chances de toucher lorsqu'ils attaquent, même en tirant très vite. "
-"Les francs-tireurs excellent à décimer des ennemis retranchés. Les unités "
-"invisibles sont particulièrement dures à toucher."
+"les francs-tireurs elfes sont d'une précision incroyable qui leur assure 60 "
+"% de chances de toucher lorsqu'ils attaquent, même en tirant très vite. Ils "
+"excellent à décimer des ennemis retranchés. Les unités invisibles sont "
+"particulièrement difficiles à toucher."
 
 #. message: speaker=unit
 #: Legend_of_Wesmere/utils/deaths.cfg:10
-#, fuzzy
 msgid "I have been defeated!"
-msgstr "J'ai échoué !"
+msgstr "J'ai perdu !"
 
 #. message: speaker=unit
 #: Legend_of_Wesmere/utils/deaths.cfg:26
 msgid ""
 "I can't believe it should end like this! I'm sorry I failed you Kalenz..."
 msgstr ""
+"Je n'arrive pas à croire que cela finisse comme cela ! Je regrette de "
+"t'avoir déçu, Kalenz..."
 
 #. message: description=Kalenz
 #: Legend_of_Wesmere/utils/deaths.cfg:45
-#, fuzzy
 msgid "Noooo! We cannot continue without Landar!"
-msgstr "Nous ne pouvons continuer sans Olurf !"
+msgstr "Non ! Nous ne pouvons continuer sans Landar !"
 
 #. message: speaker=unit
 #: Legend_of_Wesmere/utils/deaths.cfg:60
 msgid "No! This is the end! We have been defeated!"
-msgstr ""
+msgstr "Non ! C'est la fin ! Nous avons été battus !"
 
 #. message: speaker=unit
 #: Legend_of_Wesmere/utils/deaths.cfg:74
@@ -4906,7 +4856,6 @@ msgstr ""
 
 #. message: speaker=unit
 #: Legend_of_Wesmere/utils/deaths.cfg:88
-#, fuzzy
 msgid "Weslath will now fall, we have failed!!"
 msgstr "Weslath va tomber, nous avons échoué !"
 
@@ -4975,11 +4924,10 @@ msgstr "Je meurs sans obtenir lou pierre ?"
 msgid "Aargh! I'm gone!"
 msgstr "Aargh ! C'en est fini pour moi !"
 
-# à confirmer en fonction de l'interlocuteur
 #. message: description=Kalenz
 #: Legend_of_Wesmere/utils/deaths.cfg:209
 msgid "I told you so!"
-msgstr "Je vous avais prévenus !"
+msgstr "Je l'avais bien dit !"
 
 #. message: speaker=second_unit
 #: Legend_of_Wesmere/utils/deaths.cfg:213
@@ -5023,11 +4971,8 @@ msgstr "Non ! Tout est fini !"
 
 #. message: speaker=Qgthun
 #: Legend_of_Wesmere/utils/deaths.cfg:278
-#, fuzzy
 msgid "Invincible Zorlan is dead? Quick, run for your lives!"
-msgstr ""
-"L'invincible Karun l'Oeil Noir est mort ? Vite, fuyez si vous tenez à la "
-"vie !"
+msgstr "L'invincible Zorlan est mort ? Vite, fuyez si vous tenez à la vie !"
 
 #. message: speaker=Kalenz
 #: Legend_of_Wesmere/utils/deaths.cfg:284
@@ -5046,9 +4991,8 @@ msgstr "Le roi a été abattu ! Wesnoth va tomber maintenant !"
 
 #. message: speaker=unit
 #: Legend_of_Wesmere/utils/deaths.cfg:340
-#, fuzzy
 msgid "Oh, no! We are too late..."
-msgstr "Oh non ! nous sommes piégés au milieu..."
+msgstr "Oh non ! Nous arrivons trop tard..."
 
 #~ msgid "I have failed! This is the end..."
 #~ msgstr "J'ai échoué ! C'est la fin..."
