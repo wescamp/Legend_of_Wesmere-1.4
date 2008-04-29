@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-04-25 21:30+0200\n"
-"PO-Revision-Date: 2008-04-25 19:33+0100\n"
+"PO-Revision-Date: 2008-04-29 09:42+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -3593,7 +3593,7 @@ msgstr "Urug-Telfar"
 #. [unit]: type=Cuttle Fish, description=Big Fish
 #: Legend_of_Wesmere/scenarios/26_Mountain_Lake.cfg:85
 msgid "Big Fish"
-msgstr ""
+msgstr "Grande pesce"
 
 #. [message]: speaker=Kalenz
 #: Legend_of_Wesmere/scenarios/26_Mountain_Lake.cfg:141
@@ -4630,6 +4630,9 @@ msgid ""
 "Elvish Elders are well armored, but not very fast and resilient. They used "
 "to be strong warriors and leaders whose skills have decreased with age"
 msgstr ""
+"Gli anziani degli elfi sono ben corazzati , ma non molto veloci né "
+"resistenti. Erano forti guerrieri e capi le cui capacità sono scemate con "
+"l'età."
 
 #. [unit]: race=elf
 #: Legend_of_Wesmere/units/High_Lord_Invisible.cfg:4
@@ -4750,7 +4753,7 @@ msgstr "Mi hanno sconfitto!"
 #: Legend_of_Wesmere/utils/deaths.cfg:26
 msgid ""
 "I can't believe it should end like this! I'm sorry I failed you Kalenz..."
-msgstr ""
+msgstr "Non posso credere che finisca così! Mi spiace, ti ho deluso Kalenz..."
 
 #. [message]: description=Kalenz
 #: Legend_of_Wesmere/utils/deaths.cfg:45
