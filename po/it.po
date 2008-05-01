@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-04-25 21:30+0200\n"
+"POT-Creation-Date: 2008-05-01 16:20+0200\n"
 "PO-Revision-Date: 2008-04-29 09:42+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: none\n"
@@ -12,75 +12,118 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. [campaign]
-#: Legend_of_Wesmere.cfg:13
+#: Legend_of_Wesmere/_main.cfg:77 Legend_of_Wesmere/_main.cfg:84
 msgid "Legend of Wesmere"
 msgstr "La leggenda di Wesmere"
 
 #. [campaign]
-#: Legend_of_Wesmere.cfg:16
-msgid "Soldier"
-msgstr "Soldato"
+#: Legend_of_Wesmere/_main.cfg:83
+msgid "LOW"
+msgstr ""
 
 #. [campaign]
-#: Legend_of_Wesmere.cfg:16
-msgid "(Easy)"
-msgstr "(facile)"
-
-#. [campaign]
-#: Legend_of_Wesmere.cfg:17
-msgid "(Normal)"
-msgstr "(normale)"
-
-#. [campaign]
-#: Legend_of_Wesmere.cfg:17
-msgid "Lord"
-msgstr "Signore"
-
-#. [campaign]
-#: Legend_of_Wesmere.cfg:18
-msgid "(Hard)"
-msgstr "(difficile)"
-
-#. [campaign]
-#: Legend_of_Wesmere.cfg:18
-msgid "High Lord"
-msgstr "Signore supremo"
-
-#. [campaign]
-#: Legend_of_Wesmere.cfg:21
+#: Legend_of_Wesmere/_main.cfg:85
+#, fuzzy
 msgid ""
 "Follow the story of the Kalenz and the Elves in Wesnoth and their fight for "
-"survival from the second orcish invasion to the times of Konrad and Delfador"
-"(Version 1.4.5, 24 fighting scenaria, 32 total, COMPLETE)"
+"survival from the second orcish invasion to the times of Konrad and Delfador."
 msgstr ""
 "Segui la storia di Kalenz e degli elfi a Wesnoth e della loro lotta per la "
 "sopravvivenza durante la seconda invasione degli orchi dai tempi di Konrad e "
 "Delfador (versione 1.4.5, 24 scenati di combattimento, 32 in totale, "
 "COMPLETA)"
 
+#. [campaign]
+#: Legend_of_Wesmere/_main.cfg:87
+msgid "(Intermediate level, 32 scenarios.)"
+msgstr ""
+
+#. [campaign]
+#: Legend_of_Wesmere/_main.cfg:94
+#, fuzzy
+msgid "Version:"
+msgstr "Velon"
+
+#. [campaign]
+#: Legend_of_Wesmere/_main.cfg:95
+msgid "(for Battle for Wesnoth 1.4.x)"
+msgstr ""
+
+#. [campaign]
+#: Legend_of_Wesmere/_main.cfg:96
+msgid "Soldier"
+msgstr "Soldato"
+
+#. [campaign]
+#: Legend_of_Wesmere/_main.cfg:96
+msgid "(Easy)"
+msgstr "(facile)"
+
+#. [campaign]
+#: Legend_of_Wesmere/_main.cfg:97
+msgid "(Normal)"
+msgstr "(normale)"
+
+#. [campaign]
+#: Legend_of_Wesmere/_main.cfg:97
+msgid "Lord"
+msgstr "Signore"
+
+#. [campaign]
+#: Legend_of_Wesmere/_main.cfg:98
+msgid "(Hard)"
+msgstr "(difficile)"
+
+#. [campaign]
+#: Legend_of_Wesmere/_main.cfg:98
+msgid "High Lord"
+msgstr "Signore supremo"
+
 #. [about]
-#: Legend_of_Wesmere.cfg:24
-msgid "Campaign designer"
+#: Legend_of_Wesmere/about.cfg:13
+#, fuzzy
+msgid "Creator and Lead Designer"
 msgstr "Progettista della campagna"
 
 #. [about]
-#: Legend_of_Wesmere.cfg:29
-msgid "Miscellaneous"
-msgstr "Miscellaneous"
+#: Legend_of_Wesmere/about.cfg:22
+#, fuzzy
+msgid "Campaign Maintenance"
+msgstr "Progettista della campagna"
 
 #. [about]
-#: Legend_of_Wesmere.cfg:31
-msgid ""
-"\n"
-"Thanks to Scott, Dacyn, Zookeeper and many others for help with WML, all the "
-"testers who contributed to bug fixes and gameplay improvements and all the "
-"great artists who made some great portraits."
+#: Legend_of_Wesmere/about.cfg:37
+msgid "Maintenance toolchain"
 msgstr ""
-"\n"
-"Grazie a Scott, Dacyn, Zookeeper molti altri per l'aiuto con il WML, a tutti "
-"quelli che hanno contribuito a sistemare i bachi e a migliorare la "
-"giocabilità e a tutti i grandi artisti che hanno hanno fatto dei magnifici "
-"ritratti."
+
+#. [about]
+#: Legend_of_Wesmere/about.cfg:43
+msgid "Prose-doctoring"
+msgstr ""
+
+#. [about]
+#: Legend_of_Wesmere/about.cfg:49
+msgid "WML Programming and Assistance"
+msgstr ""
+
+#. [about]
+#: Legend_of_Wesmere/about.cfg:69
+msgid "Graphics"
+msgstr ""
+
+#. [about]
+#: Legend_of_Wesmere/about.cfg:126
+msgid "Additional thanks to"
+msgstr ""
+
+#. [entry]
+#: Legend_of_Wesmere/about.cfg:137
+msgid ""
+"The Wesnoth community for feedback, critisism, help with WML code and "
+"graphics. Special mention should go to Scott, Turin, SelfishWeirdo,\n"
+" Teldar,js138,l'ultimo cruco,Mad Max, Rhuvaen, breversa, Sly, Zookeeper, "
+"Invisible Philosopher, Big Bad Joe and many others"
+msgstr ""
 
 #. [scenario]
 #: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:4
@@ -89,26 +132,19 @@ msgstr "L'addio alla propria terra"
 
 #. [part]
 #: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:21
+#, fuzzy
 msgid ""
 "In a small isolated peninsula north of Wesnoth a young elf, named Kalenz was "
-"growing up..."
-msgstr ""
-"In una piccola e remota penisola del nord di Wesnoth cresceva un giovane "
-"elfo di nome Kalenz..."
-
-#. [part]
-#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:31
-msgid ""
-"Things were peaceful and Kalenz was becoming a very skilled young elf. "
-"Although not of noble heritage, he was already respected for his skills.. "
-"These were the times humans came to Wesnoth in large numbers..."
+"growing up...Things were peaceful and Kalenz was becoming a very skilled "
+"young elf. Although not of noble heritage, he was already respected for his "
+"skills.. These were the times humans came to Wesnoth in large numbers..."
 msgstr ""
 "La pace regnava sovrana e Kalenz stava diventando un giovane elfo molto "
 "dotato. Sebbene non fosse di sangue nobile, era già rispettato per le sue "
 "abilità... In quei tempi giunsero a Wesnoth in gran numero gli uomini..."
 
 #. [part]
-#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:38
+#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:37
 msgid ""
 "Unfortunately, along with humans came the Orcs. The elves were never happy "
 "to go to war, and they were completely unprepared for what was to follow. "
@@ -122,28 +158,28 @@ msgstr ""
 "Wesnoth."
 
 #. [side]: description=Kalenz, type=Elvish Fighter
-#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:53
+#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:52
 msgid "Kalenz"
 msgstr "Kalenz"
 
 #. [side]: type=Elvish Elder, description=Velon
-#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:73
+#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:72
 msgid "Velon"
 msgstr "Velon"
 
 #. [side]: type=Orcish Warrior, description=Qumseh
-#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:160
+#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:159
 msgid "Qumseh"
 msgstr "Qumseh"
 
 #. [side]: type=Orcish Warrior, description=Graur-Tan
-#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:193
+#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:192
 msgid "Graur-Tan"
 msgstr "Graur-Tan"
 
 #. [objective]: condition=win
-#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:235
-#: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:150
+#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:234
+#: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:156
 msgid "Reach the signpost"
 msgstr "Raggiungi il cartello"
 
@@ -153,25 +189,27 @@ msgstr "Raggiungi il cartello"
 #: Legend_of_Wesmere/scenarios/06_Aquaintance_in_Need.cfg:168
 #: Legend_of_Wesmere/scenarios/21_Elvish_Assasins.cfg:155
 #: Legend_of_Wesmere/scenarios/11_Battle_of_the_book.cfg:98
-#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:127
+#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:132
 #: Legend_of_Wesmere/scenarios/23_End_of_War.cfg:89
-#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:239
-#: Legend_of_Wesmere/scenarios/26_Mountain_Lake.cfg:101
+#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:238
+#: Legend_of_Wesmere/scenarios/26_Mountain_Lake.cfg:105
 #: Legend_of_Wesmere/scenarios/25_The_Return_of_Trouble.cfg:178
 #: Legend_of_Wesmere/scenarios/22_Northern_Battle.cfg:143
-#: Legend_of_Wesmere/scenarios/03_Kalian.cfg:145
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:128
+#: Legend_of_Wesmere/scenarios/03_Kalian.cfg:152
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:241
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:159
-#: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:154
+#: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:160
 #: Legend_of_Wesmere/scenarios/29_Save_the_King.cfg:176
 #: Legend_of_Wesmere/scenarios/27_River_crossing.cfg:90
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:379
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:218
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:379
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:120
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:359
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:131
 #: Legend_of_Wesmere/scenarios/19_Costly_Revenge.cfg:103
 #: Legend_of_Wesmere/scenarios/30_Prince_of_Wesnoth.cfg:105
-#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:139
-#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:181
+#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:147
+#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:185
 msgid "Death of Kalenz"
 msgstr "Morte di Kalenz"
 
@@ -180,16 +218,17 @@ msgstr "Morte di Kalenz"
 #: Legend_of_Wesmere/scenarios/05_Saurian_Treasury.cfg:120
 #: Legend_of_Wesmere/scenarios/06_Aquaintance_in_Need.cfg:172
 #: Legend_of_Wesmere/scenarios/11_Battle_of_the_book.cfg:102
-#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:131
-#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:243
-#: Legend_of_Wesmere/scenarios/03_Kalian.cfg:149
+#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:136
+#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:242
+#: Legend_of_Wesmere/scenarios/03_Kalian.cfg:156
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:245
-#: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:158
+#: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:164
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:383
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:222
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:383
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:363
 #: Legend_of_Wesmere/scenarios/19_Costly_Revenge.cfg:107
-#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:143
-#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:185
+#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:151
+#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:189
 msgid "Death of Landar"
 msgstr "Morte di Landar"
 
@@ -199,34 +238,36 @@ msgstr "Morte di Landar"
 #: Legend_of_Wesmere/scenarios/06_Aquaintance_in_Need.cfg:184
 #: Legend_of_Wesmere/scenarios/21_Elvish_Assasins.cfg:163
 #: Legend_of_Wesmere/scenarios/11_Battle_of_the_book.cfg:118
-#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:143
+#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:148
 #: Legend_of_Wesmere/scenarios/23_End_of_War.cfg:97
-#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:247
-#: Legend_of_Wesmere/scenarios/26_Mountain_Lake.cfg:113
+#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:246
+#: Legend_of_Wesmere/scenarios/26_Mountain_Lake.cfg:117
 #: Legend_of_Wesmere/scenarios/25_The_Return_of_Trouble.cfg:186
-#: Legend_of_Wesmere/scenarios/03_Kalian.cfg:157
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:140
+#: Legend_of_Wesmere/scenarios/03_Kalian.cfg:164
 #: Legend_of_Wesmere/scenarios/16_The_King_must_die.cfg:249
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:167
-#: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:166
+#: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:172
 #: Legend_of_Wesmere/scenarios/29_Save_the_King.cfg:192
 #: Legend_of_Wesmere/scenarios/27_River_crossing.cfg:99
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:399
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:132
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:399
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:379
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:143
 #: Legend_of_Wesmere/scenarios/19_Costly_Revenge.cfg:115
 #: Legend_of_Wesmere/scenarios/30_Prince_of_Wesnoth.cfg:113
-#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:155
-#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:197
+#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:163
+#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:201
 msgid "Turns run out"
 msgstr "Fine dei turni a disposizione"
 
 #. [message]: description=Kalenz
-#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:258
+#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:257
 msgid "Look, there are many Orcs coming from all directions! To arms!"
 msgstr ""
 "Guarda, ci sono tantissimi orchi che arrivano da tutte le parti! Alle armi!"
 
 #. [message]: description=Velon
-#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:263
+#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:262
 msgid ""
 "Hold it Kalenz. The council should discuss the matter. Maybe we can reach an "
 "agreement with them!"
@@ -235,17 +276,17 @@ msgstr ""
 "possiamo giungere a un accordo con loro!"
 
 #. [message]: description=Qumseh
-#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:267
+#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:266
 msgid "Surrender or die, filthy elves!"
 msgstr "Arrendetevi o morirete, luridi elfi!"
 
 #. [message]: description=Velon
-#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:272
+#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:271
 msgid "They are too many. I am afraid we have no choice but to surrender!"
 msgstr "Sono troppi. Temo che non abbiamo altra scelta che arrenderci!"
 
 #. [message]: description=Kalenz
-#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:277
+#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:276
 msgid "Elves will never surrender to these foul beasts! Who's with me?"
 msgstr ""
 "Gli elfi non si arrenderanno mai di fronte a queste belve malvagie! Chi è "
@@ -254,18 +295,18 @@ msgstr ""
 #. [side]: type=Elvish Archer, description=Landar
 #. [unit]: type=Elvish Archer, description=Landar
 #: Legend_of_Wesmere/scenarios/23_End_of_War.cfg:47
-#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:283
+#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:282
 #: Legend_of_Wesmere/scenarios/22_Northern_Battle.cfg:65
 msgid "Landar"
 msgstr "Landar"
 
 #. [message]: description=Landar
-#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:300
+#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:299
 msgid "We will follow you-but where do we go? We are surrounded!"
 msgstr "Ti seguiremo - ma dove vuoi andare? Siamo circondati!"
 
 #. [message]: description=Kalenz
-#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:307
+#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:306
 msgid ""
 "We must reach the elvish council in Kali'an and seek their help to recapture "
 "our home. We need to go southwest to reunite with our brothers. Let's storm "
@@ -277,37 +318,37 @@ msgstr ""
 "che ne arrivino altri!"
 
 #. [unit]: type=Elvish Fighter, description=Andulias
-#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:315
+#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:314
 msgid "Andulias"
 msgstr "Andulias"
 
 #. [message]: description=Andulias
-#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:329
+#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:328
 msgid "Ok Kalenz, you lead us!"
 msgstr "Bene Kalenz, guidaci!"
 
 #. [message]: speaker=second_unit
-#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:345
+#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:344
 msgid "You messed with the wrong elf!"
 msgstr "Ti sei messo contro l'elfo sbagliato!"
 
 #. [message]: speaker=second_unit
-#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:358
+#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:357
 msgid "Take that, you orcish scum!"
 msgstr "Prendi questo, feccia d'orco!"
 
 #. [message]: description=Velon
-#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:371
+#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:370
 msgid "We surrender!"
 msgstr "Ci arrendiamo!"
 
 #. [message]: description=Graur-Tan
-#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:376
+#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:375
 msgid "Did I mention that we take no prisoners? Die!"
 msgstr "Non ti avevo ancora detto che non facciamo prigionieri? Muori!"
 
 #. [message]: description=Velon
-#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:383
+#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:382
 msgid ""
 "Kalenz was right and I was wrong. Let a few of us hold them for a while "
 "while the rest go join Kalenz while you still can!"
@@ -316,12 +357,12 @@ msgstr ""
 "per dare il tempo agli altri di raggiungere Kalenz finché possono!"
 
 #. [message]: speaker=unit
-#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:411
+#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:410
 msgid "We must leave now, but we will not forget. We will return!"
 msgstr "Adesso dobbiamo andarcene, ma non dimenticheremo. Noi ritorneremo!"
 
 #. [message]: description=Graur-Tan
-#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:416
+#: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:415
 msgid "You won't get very far! After them!"
 msgstr "Non andrete lontano! Inseguiamoli!"
 
@@ -344,29 +385,31 @@ msgstr ""
 #. [side]: type=Dwarvish Steelclad, description=Olurf
 #. [unit]: description=Olurf, type=Dwarvish Steelclad
 #: Legend_of_Wesmere/scenarios/06_Aquaintance_in_Need.cfg:49
-#: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:57
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:648
+#: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:63
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:648
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:801
 msgid "Olurf"
 msgstr "Olurf"
 
 #. [side]: type=Troll Warrior, description=Grugl
-#: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:81
+#: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:87
 msgid "Grugl"
 msgstr "Grugl"
 
 #. [objective]: condition=lose
 #: Legend_of_Wesmere/scenarios/06_Aquaintance_in_Need.cfg:176
 #: Legend_of_Wesmere/scenarios/11_Battle_of_the_book.cfg:106
-#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:139
-#: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:162
+#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:144
+#: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:168
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:391
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:226
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:391
-#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:151
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:371
+#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:159
 msgid "Death of Olurf"
 msgstr "Morte di Olurf"
 
 #. [message]: description=Kalenz
-#: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:186
+#: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:192
 msgid ""
 "I hoped to avoid these paths...The eastern path is dwarven territory and is "
 "shorter. I hope the dwarves grant us safe passage, since the other path is "
@@ -377,7 +420,7 @@ msgstr ""
 "perché l'altra strada è territorio dei troll..."
 
 #. [message]: description=Olurf
-#: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:191
+#: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:197
 msgid ""
 "Not in your dreams, elf! These are dwarven lands. We don't want you and your "
 "likes here! Take a hike!"
@@ -386,7 +429,7 @@ msgstr ""
 "né i tuoi simili qua! Cambiate strada!"
 
 #. [message]: description=Landar
-#: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:195
+#: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:201
 msgid ""
 "Look, the orcs have landed. They will be attacking you too any minute now. "
 "This is no time to fight among ourselves!"
@@ -395,7 +438,7 @@ msgstr ""
 "all'altro. Non è il momento di combattere fra di noi!"
 
 #. [message]: description=Olurf
-#: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:199
+#: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:205
 msgid ""
 "'nother of these elvish tricks, huh? We know your kind. And who needs your "
 "help anyway, weaklings? Leave now, or feel my axe! And so will anyone else "
@@ -409,12 +452,12 @@ msgstr ""
 "riva orientale del fiume se ne pentirà!"
 
 #. [message]: description=Landar
-#: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:203
+#: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:209
 msgid "I guess the trolls cannot be any less friendly"
 msgstr "Credo che nemmeno i troll avrebbero potuto essere meno amichevoli."
 
 #. [message]: description=Kalenz
-#: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:207
+#: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:213
 msgid ""
 "Hmm... Maybe the dwarves CAN still be of help. Onwards and no matter what "
 "you do, do NOT step on the east band of the river!"
@@ -423,32 +466,32 @@ msgstr ""
 "succeda, NON camminate sulla riva orientale del fiume!"
 
 #. [message]: speaker=second_unit
-#: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:220
+#: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:226
 msgid "payback time!"
 msgstr "È l'ora di saldare i debiti!"
 
 #. [message]: speaker=unit
-#: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:235
+#: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:241
 msgid "We made it! Now onward to Wesmere! Hurry!"
 msgstr "Ce l'abbiamo fatta! Ora andiamo a Wesmere! Presto!"
 
 #. [message]: speaker=Olurf
-#: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:252
+#: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:258
 msgid "These darn trolls stepped on OUR land! Attack!"
 msgstr "Questi dannati troll stanno calpestando la NOSTRA terra! All'attacco!"
 
 #. [message]: speaker=Olurf
-#: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:285
+#: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:291
 msgid "These darn elves stepped on OUR land! Attack!"
 msgstr "Questi dannati elfi stanno calpestando la NOSTRA terra! All'attacco!"
 
 #. [message]: speaker=unit
-#: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:306
+#: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:312
 msgid "We made it. Onwards to Wesmere!"
 msgstr "Ce l'abbiamo fatta. Avanti verso Wesmere!"
 
 #. [message]: description=Olurf
-#: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:310
+#: Legend_of_Wesmere/scenarios/02_Hostile_mountains.cfg:316
 msgid "Crazy Elves! But at least they helped us with the trolls"
 msgstr "Elfi pazzi! Ma almeno ci hanno aiutato contro i troll."
 
@@ -469,61 +512,66 @@ msgstr ""
 #. [side]: type=Elvish Captain, description=Galtrid
 #. [message]: description=Galtrid
 #: Legend_of_Wesmere/scenarios/20_Council_ruling.cfg:83
-#: Legend_of_Wesmere/scenarios/26_Mountain_Lake.cfg:59
-#: Legend_of_Wesmere/scenarios/03_Kalian.cfg:51
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:61
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:440
+#: Legend_of_Wesmere/scenarios/26_Mountain_Lake.cfg:63
+#: Legend_of_Wesmere/scenarios/03_Kalian.cfg:58
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:61
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:440
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:51
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:422
 msgid "Galtrid"
 msgstr "Galtrid"
 
 #. [side]: type=Orcish Warlord, description=Mutaf-uru
-#: Legend_of_Wesmere/scenarios/03_Kalian.cfg:69
+#: Legend_of_Wesmere/scenarios/03_Kalian.cfg:76
 msgid "Mutaf-uru"
 msgstr "Mutaf-uru"
 
 #. [side]: type=Orcish Warlord, description=Murudin
-#: Legend_of_Wesmere/scenarios/03_Kalian.cfg:104
+#: Legend_of_Wesmere/scenarios/03_Kalian.cfg:111
 msgid "Murudin"
 msgstr "Murudin"
 
 #. [objective]: condition=win
 #: Legend_of_Wesmere/scenarios/04_Elvish_Treasury.cfg:107
 #: Legend_of_Wesmere/scenarios/05_Saurian_Treasury.cfg:107
-#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:123
-#: Legend_of_Wesmere/scenarios/26_Mountain_Lake.cfg:97
+#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:128
+#: Legend_of_Wesmere/scenarios/26_Mountain_Lake.cfg:101
 #: Legend_of_Wesmere/scenarios/25_The_Return_of_Trouble.cfg:174
 #: Legend_of_Wesmere/scenarios/22_Northern_Battle.cfg:135
-#: Legend_of_Wesmere/scenarios/03_Kalian.cfg:141
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:124
+#: Legend_of_Wesmere/scenarios/03_Kalian.cfg:148
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:155
 #: Legend_of_Wesmere/scenarios/29_Save_the_King.cfg:168
 #: Legend_of_Wesmere/scenarios/27_River_crossing.cfg:86
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:375
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:210
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:375
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:116
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:355
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:127
 #: Legend_of_Wesmere/scenarios/19_Costly_Revenge.cfg:99
-#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:177
+#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:181
 msgid "Defeat all enemies"
 msgstr "Sconfiggi tutti i nemici"
 
 #. [objective]: condition=lose
-#: Legend_of_Wesmere/scenarios/26_Mountain_Lake.cfg:109
-#: Legend_of_Wesmere/scenarios/03_Kalian.cfg:153
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:395
+#: Legend_of_Wesmere/scenarios/26_Mountain_Lake.cfg:113
+#: Legend_of_Wesmere/scenarios/03_Kalian.cfg:160
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:395
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:375
 msgid "Death of  Galtrid"
 msgstr "Morte di Galtrid"
 
 #. [message]: description=Kalenz
-#: Legend_of_Wesmere/scenarios/03_Kalian.cfg:176
+#: Legend_of_Wesmere/scenarios/03_Kalian.cfg:183
 msgid "Oh no! The Ka'lian is under attack! We must help them!"
 msgstr "Oh no! Ka'lian è sotto attacco! Dobbiamo aiutarli!"
 
 #. [message]: description=Galtrid
-#: Legend_of_Wesmere/scenarios/03_Kalian.cfg:181
+#: Legend_of_Wesmere/scenarios/03_Kalian.cfg:188
 msgid "Are you our army's vanguard? Hurry, we are under attack!"
 msgstr "Siete l'avanguardia del nostro esercito? Presto, siamo sotto attacco!"
 
 #. [message]: description=Kalenz
-#: Legend_of_Wesmere/scenarios/03_Kalian.cfg:186
+#: Legend_of_Wesmere/scenarios/03_Kalian.cfg:193
 msgid ""
 "No, we were also attacked up north. Anyway, we'll talk later. Now let's "
 "drive these foul orcs out of our forest! Then surely the allied elvish and "
@@ -534,7 +582,7 @@ msgstr ""
 "sicuramente gli eserciti degli elfi e degli uomini sconfiggeranno gli orchi."
 
 #. [message]: description=Galtrid
-#: Legend_of_Wesmere/scenarios/03_Kalian.cfg:191
+#: Legend_of_Wesmere/scenarios/03_Kalian.cfg:198
 msgid ""
 "Then you have not heard. King Haldric has broken the treaty. The humans will "
 "not come to our help!"
@@ -543,28 +591,28 @@ msgstr ""
 "verranno in nostro aiuto!"
 
 #. [message]: description=Mutaf-uru
-#: Legend_of_Wesmere/scenarios/03_Kalian.cfg:195
+#: Legend_of_Wesmere/scenarios/03_Kalian.cfg:202
 msgid "What's that? More meat for my troops? Get them!"
 msgstr "Cos'é questo? Altra carne per le mie truppe? Prendiamoli!"
 
 #. [message]: speaker=Kalenz
-#: Legend_of_Wesmere/scenarios/03_Kalian.cfg:202
+#: Legend_of_Wesmere/scenarios/03_Kalian.cfg:209
 msgid "We won! The K'alian is safe!"
 msgstr "Abbiamo vinto! Kali'an è salvo!"
 
 #. [unit]: description=Huraldur, type=Elvish Scout
-#: Legend_of_Wesmere/scenarios/03_Kalian.cfg:217
+#: Legend_of_Wesmere/scenarios/03_Kalian.cfg:224
 msgid "Huraldur"
 msgstr "Huraldur"
 
 #. [message]: description=Huraldur
-#: Legend_of_Wesmere/scenarios/03_Kalian.cfg:234
+#: Legend_of_Wesmere/scenarios/03_Kalian.cfg:241
 msgid "The elvish treasury is under attack! They desparately need help!"
 msgstr ""
 "Il tesoro degli elfi è sotto attacco! Hanno disperatamente bisogno di aiuto!"
 
 #. [message]: description=Kalenz
-#: Legend_of_Wesmere/scenarios/03_Kalian.cfg:238
+#: Legend_of_Wesmere/scenarios/03_Kalian.cfg:245
 msgid ""
 "Galtrid, the orcs have been beaten, but you should remain here, for there "
 "may be a few more around. I'll go "
@@ -573,12 +621,12 @@ msgstr ""
 "ne potrebbero essere altri in giro. Andrò io."
 
 #. [message]: description=Huraldur
-#: Legend_of_Wesmere/scenarios/03_Kalian.cfg:243
+#: Legend_of_Wesmere/scenarios/03_Kalian.cfg:250
 msgid "Please hurry! The situation was desperate as I was leaving."
 msgstr "Fa' presto! La situazione era disperata quando sono partito."
 
 #. [message]: description=Galtrid
-#: Legend_of_Wesmere/scenarios/03_Kalian.cfg:248
+#: Legend_of_Wesmere/scenarios/03_Kalian.cfg:255
 msgid "Go Kalenz, I'll guard the Ka'lian till our army returns from the front."
 msgstr ""
 "Va' Kalenz, io difenderò Ka'lian finché il tuo esercito non sarà tornato dal "
@@ -611,21 +659,23 @@ msgstr "Trigr"
 #: Legend_of_Wesmere/scenarios/06_Aquaintance_in_Need.cfg:180
 #: Legend_of_Wesmere/scenarios/21_Elvish_Assasins.cfg:159
 #: Legend_of_Wesmere/scenarios/11_Battle_of_the_book.cfg:110
-#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:135
+#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:140
 #: Legend_of_Wesmere/scenarios/23_End_of_War.cfg:93
-#: Legend_of_Wesmere/scenarios/26_Mountain_Lake.cfg:105
+#: Legend_of_Wesmere/scenarios/26_Mountain_Lake.cfg:109
 #: Legend_of_Wesmere/scenarios/25_The_Return_of_Trouble.cfg:182
 #: Legend_of_Wesmere/scenarios/22_Northern_Battle.cfg:147
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:132
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:163
 #: Legend_of_Wesmere/scenarios/29_Save_the_King.cfg:180
 #: Legend_of_Wesmere/scenarios/27_River_crossing.cfg:94
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:387
 #: Legend_of_Wesmere/scenarios/14_Ancient_Alliance.cfg:230
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:387
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:124
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:367
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:135
 #: Legend_of_Wesmere/scenarios/19_Costly_Revenge.cfg:111
 #: Legend_of_Wesmere/scenarios/30_Prince_of_Wesnoth.cfg:109
-#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:147
-#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:189
+#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:155
+#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:193
 msgid "Death of Cleodil"
 msgstr "Morte di Cleodil"
 
@@ -981,12 +1031,14 @@ msgstr ""
 "prossima non potremo essere qua ad aiutarlo."
 
 #. [scenario]
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:4
 #: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:4
 msgid "Elves' Last Stand"
 msgstr "L'ultima resistenza degli elfi."
 
 #. [part]
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:31
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:31
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:20
 msgid ""
 "With no further encounters Kalenz and his band returned to Wesmere just in "
 "time..."
@@ -995,32 +1047,38 @@ msgstr ""
 "tempo..."
 
 #. [side]: type=Elvish Marshal, description=El'Isomithir
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:74
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:74
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:63
 msgid "El'Isomithir"
 msgstr "El'Isomithir"
 
 #. [side]: type=Orcish Warlord, description=Mordrum
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:87
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:87
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:75
 msgid "Mordrum"
 msgstr "Mordrum"
 
 #. [side]: type=Orcish Warlord, description=Urug-Pir
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:124
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:124
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:111
 msgid "Urug-Pir"
 msgstr "Urug-Pir"
 
 #. [side]: type=Troll Warrior, description=Truugl
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:164
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:164
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:146
 msgid "Truugl"
 msgstr "Truugl"
 
 #. [side]: type=Orcish Warlord, description=Grubr
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:198
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:198
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:180
 msgid "Grubr"
 msgstr "Grubr"
 
 #. [message]: description=Kalenz
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:436
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:436
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:418
 msgid ""
 "The orcs have pushed us back to the Kalian. There is no way out. We must win "
 "here!"
@@ -1029,17 +1087,20 @@ msgstr ""
 "vincere qua!"
 
 #. [message]: description=Galtrid
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:442
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:442
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:424
 msgid "This is our final stand. If they take the K'alian, all is lost!"
 msgstr "Questa è la battaglia finale. Se prendono K'alian, tutto è perduto!"
 
 #. [message]: description=Grubr
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:447
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:447
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:429
 msgid "We'll crush those weak elves and I'll get da stone!"
 msgstr "Massacreremo questi elfi smidollati e avremo la cemma!"
 
 #. [option]: description=Kalenz
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:453
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:453
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:435
 msgid ""
 "I see the orcish army is big but consists of mostly inexperienced fighters. "
 "This should not take too long...."
@@ -1048,7 +1109,8 @@ msgstr ""
 "inesperti. Non ci dovrebbe voler molto..."
 
 #. [option]: description=Kalenz
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:512
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:512
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:493
 msgid ""
 "These are hardened orc and Troll veterans. Men, prepare for a long, hard "
 "fight..."
@@ -1056,8 +1118,64 @@ msgstr ""
 "Questi sono orchi esperti e troll veterani. Uomini, prepariamoci a una lotta "
 "lunga e dura..."
 
+#. [message]: description=Galtrid
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:507
+msgid ""
+"Kalenz, you are our most experienced commander. Do you want to take over the "
+"command of all our troops?"
+msgstr ""
+
+#. [option]: description=Kalenz
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:513
+msgid "It's an honour for me to command our troops."
+msgstr ""
+
+#. [option]: description=Kalenz
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:523
+msgid "Sorry, i can't accept the responsibility."
+msgstr ""
+
+#. [message]: description=$current_leader.description
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:570
+msgid "What are your orders Kalenz?"
+msgstr ""
+
+#. [option]: description=$current_leader.description
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:574
+msgid "Stay with your current orders!"
+msgstr ""
+
+#. [option]: description=$current_leader.description
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:579
+msgid "Goto the castle in the middle!"
+msgstr ""
+
+#. [option]: description=$current_leader.description
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:594
+#, fuzzy
+msgid "Protect Galtrid"
+msgstr "Galtrid"
+
+#. [option]: description=$current_leader.description
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:613
+#, fuzzy
+msgid "Protect El'Isomithir"
+msgstr "El'Isomithir"
+
+#. [option]: description=$current_leader.description
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:632
+msgid "Protect the Southern Castle"
+msgstr ""
+
+#. [option]: description=$current_leader.description
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:649
+#, fuzzy
+msgid "Defeat Grubr!"
+msgstr "Sconfiggi Landar"
+
 #. [message]: description=Kalenz
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:522
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:522
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:676
 msgid ""
 "We still haven't defeated the orcs and our troops and supplies are "
 "exhausted. This is the end!"
@@ -1066,42 +1184,50 @@ msgstr ""
 "e i rifornimenti esauriti. Questa è la fine!"
 
 #. [message]: speaker=unit
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:533
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:533
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:687
 msgid "I have failed!"
 msgstr "Ho fallito!"
 
 #. [message]: speaker=Kalenz
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:546
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:546
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:700
 msgid "No! It's hopeless without Landar!"
 msgstr "No! Non abbiamo speranza senza Landar!"
 
 #. [message]: speaker=Kalenz
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:560
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:560
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:713
 msgid "No, with Galtrid gone, we are doomed!"
 msgstr "No, senza Gatrid siamo condannati!"
 
 #. [message]: speaker=Kalenz
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:573
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:573
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:726
 msgid "We cannot continue without Olurf!"
 msgstr "Non possiamo continuare senza Olurf!"
 
 #. [message]: speaker=Kalenz
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:586
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:586
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:739
 msgid "Not Cleodil!"
 msgstr "Non Cleodil!"
 
 #. [message]: speaker=Galtrid
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:596
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:596
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:750
 msgid "At last! The orcs are defeated."
 msgstr "Finalmente! Gli orchi sono stati sconfitti."
 
 #. [message]: description=Pirorr
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:623
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:623
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:777
 msgid "Pirorr"
 msgstr "Pirorr"
 
 #. [message]: description=Pirorr
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:624
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:624
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:778
 msgid ""
 "The elves have beat us and they did not use da stone. Maybe they don't have "
 "it? King will not like bad news!"
@@ -1110,70 +1236,83 @@ msgstr ""
 "l'hanno? Al re non piacciono le cattive notizie!"
 
 #. [message]: speaker=unit
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:638
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:638
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:792
 msgid ""
 "Aargh! I should have stayed in the mountains instead of joining the orcs"
 msgstr ""
 "Aargh! Sarei dovuto rimanere sulle montagne invece di unirmi agli orchi."
 
 #. [unit]: description=Bulrod, type=Dwarvish Steelclad
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:662
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:662
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:815
 msgid "Bulrod"
 msgstr "Bulrod"
 
 #. [unit]: description=Simclon, type=Dwarvish Thunderer
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:674
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:674
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:827
 msgid "Simclon"
 msgstr "Simclon"
 
 #. [unit]: description=Harald, type=Dwarvish Berserker
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:687
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:687
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:840
 msgid "Harald"
 msgstr "Harald"
 
 #. [unit]: description=Budrin, type=Dwarvish Berserker
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:700
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:700
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:853
 msgid "Budrin"
 msgstr "Budrin"
 
 #. [unit]: description=Dudan, type=Dwarvish Fighter
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:713
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:713
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:866
 msgid "Dudan"
 msgstr "Dudan"
 
 #. [unit]: description=Korbun, type=Dwarvish Fighter
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:726
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:726
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:879
 msgid "Korbun"
 msgstr "Korbun"
 
 #. [unit]: description=Merhun, type=Dwarvish Berserker
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:739
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:739
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:892
 msgid "Merhun"
 msgstr "Merhun"
 
 #. [message]: description=Olurf
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:755
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:755
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:906
 msgid "Thought we'd let you have all the fun with the orcs by yourselves?"
 msgstr ""
 "Pensavate che vi avremmo lasciato a divertire con questi orchi da soli?"
 
 #. [message]: description=Kalenz
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:759
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:759
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:910
 msgid "It's Olurf! He made it!"
 msgstr "È Olurf! Ce l'ha fatta!"
 
 #. [message]: description=Olurf
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:763
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:763
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:914
 msgid "I told you I'd be there"
 msgstr "Te l'ho detto che sarei arrivato."
 
 #. [message]: description=Landar
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:767
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:767
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:918
 msgid "Not much of an army he is bringing with him though"
 msgstr "L'esercito che si porta con sé non è granché però."
 
 #. [message]: description=Olurf
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:771
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:771
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:922
 msgid ""
 "Not much of an army! These are dwarves with migthy axes, not some wimpy bow-"
 "carying elves!"
@@ -1182,7 +1321,8 @@ msgstr ""
 "portatori di archi!"
 
 #. [message]: description=Kalenz
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:776
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:776
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:926
 msgid ""
 "Olurf is that all the dwarves you could find? Maybe the gold was not enough?"
 msgstr ""
@@ -1190,7 +1330,8 @@ msgstr ""
 "era sufficiente?"
 
 #. [message]: description=Olurf
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:780
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:780
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:930
 msgid ""
 "They are not fighting for gold, they are in it for the fun. I'd have a lot "
 "more if one of my men had kept quiet about helping elves! Anyway, my clan "
@@ -1201,22 +1342,26 @@ msgstr ""
 "In ogni modo, il mio clan dovrebbe unirsi a noi tra alcuni giorni."
 
 #. [message]: description=Landar
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:784
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:784
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:934
 msgid "In a few days? That's too late! Then we can have our gold back!"
 msgstr "Tra pochi giorni? È troppo tardi! Vogliamo il nostro denaro indietro!"
 
 #. [message]: description=Olurf
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:788
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:788
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:938
 msgid "Sure, minus expenses"
 msgstr "Certo, meno le spese."
 
 #. [message]: description=Landar
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:792
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:792
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:942
 msgid "What expenses?"
 msgstr "Quali spese?"
 
 #. [message]: description=Olurf
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:796
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:796
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:946
 msgid ""
 "Well it's an ancient dwarvish custom to buy the warriors a few drinks before "
 "the battle... So minus expenses that's about even"
@@ -1225,12 +1370,14 @@ msgstr ""
 "battaglia... Così meno le spese è quasi pari."
 
 #. [message]: description=Landar
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:800
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:800
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:950
 msgid "That explains why they are so reckless in battle..."
 msgstr "Così si spiega come mai sono così sconsiderati in battaglia..."
 
 #. [message]: description=Kalenz
-#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:805
+#: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:805
+#: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:954
 msgid "... Well, gentlemen, we have a battle to fight!"
 msgstr "... Be', signori, abbiamo una battaglia da combattere!"
 
@@ -1406,7 +1553,7 @@ msgid "Bounty Hunters"
 msgstr "Cacciatori di taglie"
 
 #. [part]
-#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:21
+#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:23
 msgid ""
 "And so, with Wesmere seemingly safe, Kalenz and Olurf left enough troops and "
 "resources to keep it this way and started off on the long and dangerous trip "
@@ -1418,37 +1565,37 @@ msgstr ""
 "Thoria... il pericolo, però, era molto più vicino alla loro casa."
 
 #. [side]: type=Saurian Flanker, description=Huurgh
-#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:52
+#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:60
 msgid "Huurgh"
 msgstr "Huurgh"
 
 #. [side]: type=Saurian Ambusher, description=Shhar
-#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:76
+#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:84
 msgid "Shhar"
 msgstr "Shhar"
 
 #. [objective]: condition=win
-#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:135
+#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:143
 msgid "Kalenz crosses the river"
 msgstr "Kalenz attraversa il fiume"
 
 #. [message]: description=Huurgh
-#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:239
+#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:247
 msgid "Yes! Its those elves who stole our gold! The bounty is mine!"
 msgstr "Sì! Sono gli elfi che ci hanno rubato l'oro! La taglia è mia!"
 
 #. [message]: description=Shhar
-#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:243
+#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:251
 msgid "You must be joking! The bounty is all mine."
 msgstr "Stai scherzando! La taglia sarà tutta mia."
 
 #. [message]: description=Olurf
-#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:248
+#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:256
 msgid "What are they talking about?"
 msgstr "Di cosa stanno parlando?"
 
 #. [message]: description=Landar
-#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:252
+#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:260
 msgid ""
 "Apparently the Saurians have put a bounty on our heads for taking our gold "
 "back after they stole it. Are you interested? "
@@ -1458,7 +1605,7 @@ msgstr ""
 "interessa?"
 
 #. [message]: description=Olurf
-#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:256
+#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:264
 msgid ""
 "No, but my axe is interested in some Saurian heads! They've been too "
 "friendly with them orcs!"
@@ -1467,7 +1614,7 @@ msgstr ""
 "amichevoli con questi orchi!"
 
 #. [message]: description=Kalenz
-#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:260
+#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:268
 msgid ""
 "Remember, we are here on a mission. We will fight the Saurians if we must, "
 "but our mission is to get to Thoria."
@@ -1476,7 +1623,7 @@ msgstr ""
 "costretti, ma la nostra missione è quella di raggiungere Thoria."
 
 #. [message]: description=Olurf
-#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:264
+#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:272
 msgid ""
 "Crossing the river without a bridge? We dwarves know water is a very "
 "dangerous thing!"
@@ -1485,7 +1632,7 @@ msgstr ""
 "cosa molto pericolosa!"
 
 #. [message]: description=Kalenz
-#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:268
+#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:276
 msgid ""
 "Indeed, this river is, I believe, Arkan-thoria. There are lots of bad "
 "legends about it, so be very careful when you cross, even though they are "
@@ -1496,57 +1643,57 @@ msgstr ""
 "attraverserete, anche se probabilmente i racconti sono solo favole."
 
 #. [message]: speaker=unit
-#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:284
+#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:292
 msgid "We made it. Onwards to Thoria!"
 msgstr "Ce l'abbiamo fatta. Avanti verso Thoria!"
 
 #. [message]: description=Olurf
-#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:288
+#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:296
 msgid "At last! "
 msgstr "Finalmente!"
 
 #. [message]: description=Landar
-#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:293
+#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:301
 msgid "We really need to settle things with these Saurians once and forall! "
 msgstr ""
 "Dovremmo davvero sistemare le cose con questi sauri una volta per tutte!"
 
 #. [event]
-#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:314
+#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:322
 msgid "Sealurr"
 msgstr "Sealurr"
 
 #. [message]: speaker=unit
-#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:318
+#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:326
 msgid "The legends are true! Sea creatures are upon us!"
 msgstr "Le leggende dicevano il vero! Le creature del mare ci sono addosso!"
 
 #. [event]
-#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:335
+#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:343
 msgid "Kallub"
 msgstr "Kallub"
 
 #. [message]: speaker=unit
-#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:339
+#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:347
 msgid "They are coming at us from all sides!"
 msgstr "Stanno arrivando da tutte le parti!"
 
 #. [event]
-#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:355
-#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:389
+#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:363
+#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:397
 msgid "Scardeep"
 msgstr "Scardeep"
 
 #. [message]: speaker=unit
-#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:359
-#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:393
+#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:367
+#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:401
 msgid "Watch for the Serpent!"
 msgstr "Attento al serpente!"
 
 #. [event]
-#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:374
-#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:408
-#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:422
+#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:382
+#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:416
+#: Legend_of_Wesmere/scenarios/09_Bounty_hunters.cfg:430
 msgid "Kalimar"
 msgstr "Kalimar"
 
@@ -1556,7 +1703,7 @@ msgid "Cliffs of Thoria"
 msgstr "Le rupi di Thoria"
 
 #. [part]
-#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:19
+#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:20
 msgid ""
 "Leaving Arkan-Thoria behind, Kalenz and his band ventured into the dangerous "
 "mountains of Thoria...."
@@ -1565,29 +1712,29 @@ msgstr ""
 "avventurarono nelle pericolose montagne di Thoria..."
 
 #. [side]: type=Troll Warrior, description=Tafrul
-#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:49
+#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:54
 msgid "Tafrul"
 msgstr "Tafrul"
 
 #. [side]: type=Gryphon, description=Gryphon King
-#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:78
+#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:83
 msgid "Gryphon King"
 msgstr "Re dei grifoniGryphon King"
 
 #. [objective]: condition=win
-#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:119
+#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:124
 msgid "Reach the signpost with Kalenz"
 msgstr "Raggiungi il cartello con Kalenz"
 
 #. [message]: description=Landar
-#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:199
+#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:204
 msgid "I can hardly see with all that mist around, but I can sense danger"
 msgstr ""
 "Riesco a malapena a vedere con tutta questa nebbia qua attorno, ma "
 "percepisco che siamo in pericolo."
 
 #. [message]: description=Olurf
-#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:203
+#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:208
 msgid ""
 "Told you it would be no  picnic excursion elf-boy. Too scared to continue?"
 msgstr ""
@@ -1595,7 +1742,7 @@ msgstr ""
 "troppa paura per continuare?"
 
 #. [message]: description=Kalenz
-#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:207
+#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:212
 msgid ""
 "Gentlemen, easy. We cannot go back now. But be very careful, I don't like "
 "this one bit"
@@ -1604,7 +1751,7 @@ msgstr ""
 "questo posto non mi piace per niente."
 
 #. [message]: description=Cleodil
-#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:211
+#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:216
 msgid ""
 "I too feel we are in great danger. Probably we should stay close together "
 "and move very carefully."
@@ -1613,49 +1760,49 @@ msgstr ""
 "rimanere insieme e muoverci con molta circospezione."
 
 #. [message]: speaker=unit
-#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:225
+#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:230
 msgid "Onwards!"
 msgstr "Avanti!"
 
 #. [message]: description=Olurf
-#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:229
+#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:234
 msgid "Doing pretty well elf-boy! "
 msgstr "Ben fatto, ragazzo elfo!"
 
 #. [message]: description=Cleodil
-#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:252
+#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:257
 msgid "I can see smoke ahead! I feel something terribly wrong is happening! "
 msgstr "Vedo del fumo laggiù! Penso che stia accadendo qualcosa di terribile!"
 
 #. [message]: description=Olurf
-#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:256
+#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:261
 msgid "Crelanu's place should be close now, I remember. Quickly, this way! "
 msgstr ""
 "Il posto di Crelanu dovrebbe essere vicino ora, mi ricordo. Svelti, da "
 "questa parte!"
 
 #. [event]
-#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:276
+#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:281
 msgid "Krulg"
 msgstr "Krulg"
 
 #. [message]: description=Kalenz
-#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:280
+#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:285
 msgid "Watch out!"
 msgstr "Attenzione!"
 
 #. [message]: description=Tafrul
-#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:284
+#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:289
 msgid "Watch out!!"
 msgstr "Attenzione!!"
 
 #. [event]
-#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:291
+#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:296
 msgid "Tralg"
 msgstr "Tralg"
 
 #. [event]
-#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:292
+#: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:297
 msgid "Urlg"
 msgstr "Urlg"
 
@@ -2887,35 +3034,35 @@ msgstr ""
 "dei rinforzi in loro soccorso. Ma l'inverno era piombato sui nostri eroi..."
 
 #. [side]: type=Orcish Warlord, description=Mbiran
-#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:49
+#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:53
 msgid "Mbiran"
 msgstr "Mbiran"
 
 #. [side]: type=Orcish Warlord, description=Tan-Durr
-#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:82
+#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:86
 msgid "Tan-Durr"
 msgstr "Tan-Durr"
 
 #. [side]: type=Orcish Warlord, description=Kior-Pur
-#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:122
+#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:126
 msgid "Kior-Pur"
 msgstr "Kior-Pur"
 
 #. [side]: type=Elvish Marshal, description=Uradredia
 #: Legend_of_Wesmere/scenarios/20_Council_ruling.cfg:56
 #: Legend_of_Wesmere/scenarios/22_Northern_Battle.cfg:51
-#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:160
+#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:164
 msgid "Uradredia"
 msgstr "Uradredia"
 
 #. [objective]: condition=lose
 #: Legend_of_Wesmere/scenarios/22_Northern_Battle.cfg:152
-#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:193
+#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:197
 msgid "Death of Uradredia"
 msgstr "Morte di Uradredia"
 
 #. [message]: description=Kior-Pur
-#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:238
+#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:242
 msgid ""
 "I see troops coming from the south! Surely our army has beaten these elves "
 "and humans and will now help us get rid of these remaining elves!"
@@ -2924,7 +3071,7 @@ msgstr ""
 "sconfitto elfi e uomini e ora ci aiuterà a eliminare gli elfi restanti!"
 
 #. [message]: description=Uradredia
-#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:242
+#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:246
 msgid ""
 "Our defenses are streched thin. Men, prepare to face another orcish attack!"
 msgstr ""
@@ -2932,44 +3079,44 @@ msgstr ""
 "un altro attacco degli orchi!"
 
 #. [message]: description=Kalenz
-#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:246
+#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:250
 msgid "The North Elves still stand. Prepare for battle!"
 msgstr "Gli elfi del nord ancora resistono. Preparatevi alla battaglia!"
 
 #. [message]: description=Kalenz
-#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:255
+#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:259
 msgid "The North Elves are now free! "
 msgstr "Ora gli elfi del nord sono liberi!"
 
 #. [message]: description=Uradredia
-#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:259
+#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:263
 msgid "Thanks to you Kalenz, son of Kliada. Our troops are at your command. "
 msgstr ""
 "Grazie a voi Kalenz, figlio di Kliada. Le nostre truppe sono ai vostri "
 "ordini."
 
 #. [message]: description=Kior-Pur
-#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:272
+#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:276
 msgid "The elves are attacking us! Reserves!"
 msgstr "Gli elfi ci attaccano! Chiamate i rinforzi!"
 
 #. [event]
-#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:282
+#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:286
 msgid "Zhuk"
 msgstr "Zhuk"
 
 #. [event]
-#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:292
+#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:296
 msgid "Dran"
 msgstr "Dran"
 
 #. [event]
-#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:293
+#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:297
 msgid "Hrugt"
 msgstr "Hrugt"
 
 #. [event]
-#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:294
+#: Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:298
 msgid "Orhtib"
 msgstr "Orhtib"
 
@@ -3577,7 +3724,7 @@ msgid "Mountain_Lake"
 msgstr "Il lago tra le montagne"
 
 #. [part]
-#: Legend_of_Wesmere/scenarios/26_Mountain_Lake.cfg:26
+#: Legend_of_Wesmere/scenarios/26_Mountain_Lake.cfg:27
 msgid ""
 "The elves moved in to recapture the Mountain lake, an area until now noted "
 "for its peacefulness and tranquility..."
@@ -3586,17 +3733,17 @@ msgstr ""
 "nota fino ad allora per la pace e la tranquillità..."
 
 #. [side]: type=Orcish Warlord, description=Urug-Telfar
-#: Legend_of_Wesmere/scenarios/26_Mountain_Lake.cfg:73
+#: Legend_of_Wesmere/scenarios/26_Mountain_Lake.cfg:77
 msgid "Urug-Telfar"
 msgstr "Urug-Telfar"
 
 #. [unit]: type=Cuttle Fish, description=Big Fish
-#: Legend_of_Wesmere/scenarios/26_Mountain_Lake.cfg:85
+#: Legend_of_Wesmere/scenarios/26_Mountain_Lake.cfg:89
 msgid "Big Fish"
 msgstr "Grande pesce"
 
 #. [message]: speaker=Kalenz
-#: Legend_of_Wesmere/scenarios/26_Mountain_Lake.cfg:141
+#: Legend_of_Wesmere/scenarios/26_Mountain_Lake.cfg:145
 msgid "Here we are.  This mountain mist looks dangerous!."
 msgstr "Eccoci. Questa foschia di montagna sembra pericolosa!"
 
@@ -3701,11 +3848,13 @@ msgstr ""
 "spiriti..."
 
 #. [scenario]
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:4
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:4
 msgid "Shadows in the dark"
 msgstr "Ombre nel buio"
 
 #. [part]
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:20
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:20
 msgid ""
 "Following Ur-Thorodor's directions the elfs moved north to meet the forces "
@@ -3715,28 +3864,33 @@ msgstr ""
 "incontrare le forze degli orchi..."
 
 #. [side]: type=Death Knight, description=Rudimil
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:46
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:54
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:54
 msgid "Rudimil"
 msgstr "Rudimil"
 
 #. [side]: type=Necromancer, description=Roth-Malal
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:67
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:75
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:75
 msgid "Roth-Malal"
 msgstr "Roth-Malal"
 
 #. [side]: type=Necromancer, description=Barth-Malal
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:79
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:87
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:87
 msgid "Barth-Malal"
 msgstr "Barth-Malal"
 
 #. [objective]: condition=lose
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:136
 #: Legend_of_Wesmere/scenarios/29_Save_the_King.cfg:184
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:128
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:139
 msgid "Death of Delfador"
 msgstr "Morte di Delfador"
 
 #. [message]: description=Kalenz
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:166
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:174
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:177
 msgid ""
 "This forest looks too quiet. Proceed carefully, I don't like this at all."
 msgstr ""
@@ -3744,142 +3898,169 @@ msgstr ""
 "niente."
 
 #. [message]: description=Barth-Malal
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:173
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:181
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:184
 msgid "Living... Soon, you'll be more troops for my master!"
 msgstr "Sono vivi... presto saranno truppe per il mio padrone!"
 
 #. [message]: description=Kalenz
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:177
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:185
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:188
 msgid "Undead! Where did they come from?"
 msgstr "Non-morti! Ma da dove sono arrivati?"
 
 #. [message]: description=Cleodil
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:181
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:189
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:192
 msgid "We should try to go West. I feel things are worse on the Eastern front."
 msgstr ""
 "Dovremmo provare ad andare verso ovest. Penso che la situazione sia peggiore "
 "sul fronte orientale."
 
 #. [unit]: description=Nameless, type=Spectre
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:188
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:196
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:199
 msgid "Nameless"
 msgstr "Senzanome"
 
 #. [unit]: description=Hraul, type=Spectre
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:196
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:204
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:207
 msgid "Hraul"
 msgstr "Hraul"
 
 #. [unit]: description=Atrag, type=Draug
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:204
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:212
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:215
 msgid "Atrag"
 msgstr "Atrag"
 
 #. [unit]: description=Horr, type=Banebow
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:212
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:220
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:223
 msgid "Horr"
 msgstr "Horr"
 
 #. [unit]: description=Nfrigt, type=Nightgaunt
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:220
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:228
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:231
 msgid "Nfrigt"
 msgstr "Nfrigt"
 
 #. [unit]: description=Rkrin, type=Revenant
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:228
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:236
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:239
 msgid "Rkrin"
 msgstr "Rkrin"
 
 #. [message]: description=Rudimil
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:236
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:244
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:247
 msgid "We have more help!"
 msgstr "Abbiamo un altro aiuto!"
 
 #. [unit]: description=Haunt, type=Spectre
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:244
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:252
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:255
 msgid "Haunt"
 msgstr "Haunt"
 
 #. [unit]: description=Gdal, type=Spectre
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:252
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:260
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:263
 msgid "Gdal"
 msgstr "Gdal"
 
 #. [unit]: description=Oltr, type=Draug
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:260
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:268
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:271
 msgid "Oltr"
 msgstr "Oltr"
 
 #. [unit]: description=Orbl, type=Demilich
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:268
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:276
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:279
 msgid "Orbl"
 msgstr "Orbl"
 
 #. [unit]: description=Nifigt, type=Nightgaunt
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:276
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:284
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:287
 msgid "Nifigt"
 msgstr "Nifigt"
 
 #. [unit]: description=Dert, type=Deathblade
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:284
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:292
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:295
 msgid "Dert"
 msgstr "Dert"
 
 #. [message]: description=Rudimil
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:293
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:301
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:304
 msgid "And now even more help!"
 msgstr "E ora ancora un altro aiuto!"
 
 #. [unit]: description=Delfador, type=Great Mage
 #. [message]: description=Delfador
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:300
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:308
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:311
 #: Legend_of_Wesmere/scenarios/30_Prince_of_Wesnoth.cfg:181
 #: Legend_of_Wesmere/scenarios/30_Prince_of_Wesnoth.cfg:224
 msgid "Delfador"
 msgstr "Delfador"
 
 #. [unit]: description=Clogrin, type=Royal Guard
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:313
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:321
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:324
 msgid "Clogrin"
 msgstr "Clogrin"
 
 #. [unit]: description=Theorsten, type=White Mage
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:323
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:331
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:334
 msgid "Theorsten"
 msgstr "Theorsten"
 
 #. [unit]: description=Igler, type=White Mage
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:333
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:341
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:344
 msgid "Igler"
 msgstr "Igler"
 
 #. [unit]: description=Larsin, type=White Mage
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:343
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:351
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:354
 msgid "Larsin"
 msgstr "Larsin"
 
 #. [unit]: description=Aldrin, type=White Mage
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:354
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:362
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:365
 msgid "Aldrin"
 msgstr "Aldrin"
 
 #. [unit]: description=Glen, type=Shock Trooper
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:365
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:373
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:376
 msgid "Glen"
 msgstr "Glen"
 
 #. [unit]: description=Droni, type=Shock Trooper
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:375
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:383
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:386
 msgid "Droni"
 msgstr "Droni"
 
 #. [unit]: description=Arthur, type=Shock Trooper
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:386
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:394
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:397
 msgid "Arthur"
 msgstr "Arthur"
 
 #. [message]: description=Delfador
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:398
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:406
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:409
 msgid ""
 "I am Delfador the great! Foul creatures, time to  be put to your final rest!"
 msgstr ""
@@ -3887,12 +4068,25 @@ msgstr ""
 "riposo eterno!"
 
 #. [message]: description=Kalenz
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:402
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:410
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:413
 msgid "We have help now! Let's take the fight to them!"
 msgstr "Ora abbiamo un aiuto! Affrontiamoli!"
 
+#. [unit]: description=Krumful, type=Draug
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:447
+#, fuzzy
+msgid "Krumful"
+msgstr "Krulg"
+
+#. [unit]: description=Unhul, type=Spectre
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:455
+msgid "Unhul"
+msgstr ""
+
 #. [message]: description=Kalenz
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:411
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:419
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:472
 msgid ""
 "So you are Delfador...Ur-Thorodor told us about you. But we thought you were "
 "dead or trapped in the Land of the Dead...I am Kalenz, lord of the elfs. We "
@@ -3903,7 +4097,8 @@ msgstr ""
 "Kalenz, signore degli elfi. Da oggi siamo in debito con voi."
 
 #. [message]: description=Delfador
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:415
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:423
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:476
 msgid ""
 "It is an honor to meet you. I escaped from  the Land of the Dead. I am "
 "chasing Iliah-Malal, the leader of the undead. "
@@ -3912,7 +4107,8 @@ msgstr ""
 "caccia a Iliah-Malal, il signore dei non-morti."
 
 #. [message]: description=Kalenz
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:419
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:427
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:480
 msgid ""
 "We were going to attack the orcs. Looks like we are not doing too well "
 "against the undead."
@@ -3921,7 +4117,8 @@ msgstr ""
 "i non-morti."
 
 #. [message]: description=Delfador
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:423
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:431
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:484
 msgid ""
 "The orcs have apparently crossed the great river in force. Our King may need "
 "all the help he can get. We will need your help to fend them off. I will "
@@ -3932,7 +4129,8 @@ msgstr ""
 "del tuo aiuto per respingerli. Dopo mi occuperò dei non-morti."
 
 #. [message]: description=Kalenz
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:429
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:437
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:490
 msgid ""
 "Our experience \n"
 "with Wesnoth Kings has not been too good. At first we thought it was  that "
@@ -3947,7 +4145,8 @@ msgstr ""
 "Ma noi siamo in debito cone voi, Delfador e noi ci uniremo a te."
 
 #. [message]: description=Delfador
-#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:433
+#: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:441
+#: Legend_of_Wesmere/scenarios/28_Shadows.cfg:494
 msgid ""
 "What? The gold in sceptre is not at all pure! I must advise the King. But "
 "first we need to save him, so let's go."
@@ -4445,51 +4644,51 @@ msgstr "Ukhtan"
 msgid "Ha! More of us are coming! You elves are lost!"
 msgstr "Ah! Stanno arrivando altri di noi! Avete perso, elfi!"
 
-#. [event]
-#: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:303
+#. [unit]: description=Athburil, type=Elvish Fighter
+#: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:308
 msgid "Athburil"
 msgstr "Athburil"
 
-#. [event]
-#: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:304
+#. [unit]: description=Panorea, type=Elvish Shaman
+#: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:321
 msgid "Panorea"
 msgstr "Panorea"
 
 #. [message]: speaker=Panorea
-#: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:308
+#: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:341
 msgid "Good thing you came! More of us are hiding in the forest."
 msgstr ""
 "È un bene che tu sia venuto! Altri di noi stanno nascondendosi nella foresta."
 
-#. [event]
-#: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:321
+#. [unit]: description=Ithoras, type=Elvish Archer
+#: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:355
 msgid "Ithoras"
 msgstr "Ithoras"
 
-#. [event]
-#: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:322
+#. [unit]: description=Kletskis, type=Elvish Hero
+#: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:369
 msgid "Kletskis"
 msgstr "Kletskis"
 
-#. [event]
-#: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:333
+#. [unit]: description=Pribol, type=Elvish Archer
+#: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:394
 msgid "Pribol"
 msgstr "Pribol"
 
-#. [event]
-#: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:334
+#. [unit]: description=Ilendal, type=Elvish Fighter
+#: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:407
 msgid "Ilendal"
 msgstr "Ilendal"
 
-#. [event]
-#: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:345
-msgid "Gliglus"
-msgstr "Gliglus"
-
-#. [event]
-#: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:346
+#. [unit]: description=Arthanar, type=Elvish Fighter
+#: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:431
 msgid "Arthanar"
 msgstr "Arthanar"
+
+#. [unit]: description=Gliglus, type=Elvish Archer
+#: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:444
+msgid "Gliglus"
+msgstr "Gliglus"
 
 #. [scenario]
 #: Legend_of_Wesmere/scenarios/32_Epilogue.cfg:3
@@ -4908,6 +5107,28 @@ msgstr "Il re è caduto! Adesso Wesnoth crollerà!"
 #: Legend_of_Wesmere/utils/deaths.cfg:340
 msgid "Oh, no! We are too late..."
 msgstr "Oh, no! Siamo arrivati tardi..."
+
+#~ msgid "Miscellaneous"
+#~ msgstr "Miscellaneous"
+
+#~ msgid ""
+#~ "\n"
+#~ "Thanks to Scott, Dacyn, Zookeeper and many others for help with WML, all "
+#~ "the testers who contributed to bug fixes and gameplay improvements and "
+#~ "all the great artists who made some great portraits."
+#~ msgstr ""
+#~ "\n"
+#~ "Grazie a Scott, Dacyn, Zookeeper molti altri per l'aiuto con il WML, a "
+#~ "tutti quelli che hanno contribuito a sistemare i bachi e a migliorare la "
+#~ "giocabilità e a tutti i grandi artisti che hanno hanno fatto dei "
+#~ "magnifici ritratti."
+
+#~ msgid ""
+#~ "In a small isolated peninsula north of Wesnoth a young elf, named Kalenz "
+#~ "was growing up..."
+#~ msgstr ""
+#~ "In una piccola e remota penisola del nord di Wesnoth cresceva un giovane "
+#~ "elfo di nome Kalenz..."
 
 #~ msgid "I have failed! This is the end..."
 #~ msgstr "Ho fallito! È la fine..."
