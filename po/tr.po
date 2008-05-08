@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-Legend_of_Wesmere\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-05-01 16:20+0200\n"
-"PO-Revision-Date: 2008-02-20 12:16+0200\n"
+"PO-Revision-Date: 2008-05-07 15:57+0300\n"
 "Last-Translator: Nilgün Belma Bugüner <nilgun@belgeler.gen.tr>\n"
 "Language-Team: Turkish <wesnoth-tr@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -25,35 +25,31 @@ msgstr "Vesmer Destanı"
 #. [campaign]
 #: Legend_of_Wesmere/_main.cfg:83
 msgid "LOW"
-msgstr ""
+msgstr "VD"
 
 #. [campaign]
 #: Legend_of_Wesmere/_main.cfg:85
-#, fuzzy
 msgid ""
 "Follow the story of the Kalenz and the Elves in Wesnoth and their fight for "
 "survival from the second orcish invasion to the times of Konrad and Delfador."
 msgstr ""
 "Wesnoth’taki Elflerin Konrad ve Delfador zamanındaki ikinci ork istilasından "
-"kurtuluşları ve Kalenz’in hikayesi\n"
-"\n"
-"(Sürüm 1.4.5, 24 döğüş senaryosu, toplam 32 senaryo, BİTMİŞ)"
+"kurtuluşları ve Kalenz’in hikayesi."
 
 #. [campaign]
 #: Legend_of_Wesmere/_main.cfg:87
 msgid "(Intermediate level, 32 scenarios.)"
-msgstr ""
+msgstr "(Orta düzey, 32 senaryo.)"
 
 #. [campaign]
 #: Legend_of_Wesmere/_main.cfg:94
-#, fuzzy
 msgid "Version:"
-msgstr "Velon"
+msgstr "Sürüm:"
 
 #. [campaign]
 #: Legend_of_Wesmere/_main.cfg:95
 msgid "(for Battle for Wesnoth 1.4.x)"
-msgstr ""
+msgstr "(Wesnoth Savaşı 1.4.x sürümleri için)"
 
 #. [campaign]
 #: Legend_of_Wesmere/_main.cfg:96
@@ -87,40 +83,38 @@ msgstr "Elf Lideri"
 
 #. [about]
 #: Legend_of_Wesmere/about.cfg:13
-#, fuzzy
 msgid "Creator and Lead Designer"
-msgstr "Seferberlik tasarımcısı"
+msgstr "İlk Seferberlik Tasarımcısı"
 
 #. [about]
 #: Legend_of_Wesmere/about.cfg:22
-#, fuzzy
 msgid "Campaign Maintenance"
-msgstr "Seferberlik tasarımcısı"
+msgstr "Sürdüren Tasarımcı"
 
 #. [about]
 #: Legend_of_Wesmere/about.cfg:37
 msgid "Maintenance toolchain"
-msgstr ""
+msgstr "Bakım Araçları"
 
 #. [about]
 #: Legend_of_Wesmere/about.cfg:43
 msgid "Prose-doctoring"
-msgstr ""
+msgstr "Metinlerin gözden geçirilmesi"
 
 #. [about]
 #: Legend_of_Wesmere/about.cfg:49
 msgid "WML Programming and Assistance"
-msgstr ""
+msgstr "WML Programlaması ve Yardımı"
 
 #. [about]
 #: Legend_of_Wesmere/about.cfg:69
 msgid "Graphics"
-msgstr ""
+msgstr "Resimler"
 
 #. [about]
 #: Legend_of_Wesmere/about.cfg:126
 msgid "Additional thanks to"
-msgstr ""
+msgstr "Ek olarak şunlara da teşekkür ederim:"
 
 #. [entry]
 #: Legend_of_Wesmere/about.cfg:137
@@ -130,6 +124,10 @@ msgid ""
 " Teldar,js138,l'ultimo cruco,Mad Max, Rhuvaen, breversa, Sly, Zookeeper, "
 "Invisible Philosopher, Big Bad Joe and many others"
 msgstr ""
+"Çizimlere ve WML koduna yardımlarından, eleştirilerinden ve geri "
+"bildirimlerinden dolayı Wesnoth topluluğuna. Özellikle de Scott, Turin, "
+"SelfishWeirdo, Teldar, js138, l'ultimo cruco, Mad Max, Rhuvaen, breversa, "
+"Sly, Zookeeper, Invisible Philosopher, Big Bad Joe ve diğerleri."
 
 #. [scenario]
 #: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:4
@@ -138,7 +136,6 @@ msgstr "Kökünü Kazımak"
 
 #. [part]
 #: Legend_of_Wesmere/scenarios/01_The_Uprooting.cfg:21
-#, fuzzy
 msgid ""
 "In a small isolated peninsula north of Wesnoth a young elf, named Kalenz was "
 "growing up...Things were peaceful and Kalenz was becoming a very skilled "
@@ -1040,7 +1037,7 @@ msgstr ""
 #: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:74
 #: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:63
 msgid "El'Isomithir"
-msgstr "El Isomithir"
+msgstr "Elisomitir"
 
 #. [side]: type=Orcish Warlord, description=Mordrum
 #: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:87
@@ -1113,54 +1110,53 @@ msgid ""
 "Kalenz, you are our most experienced commander. Do you want to take over the "
 "command of all our troops?"
 msgstr ""
+"Kalenz, bizim en deneyimli komutanımız sensin. Askerlerimizin komutasını "
+"almak ister misin?"
 
 #. [option]: description=Kalenz
 #: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:513
 msgid "It's an honour for me to command our troops."
-msgstr ""
+msgstr "Askerlerimize komuta etmek bir onurdur."
 
 #. [option]: description=Kalenz
 #: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:523
 msgid "Sorry, i can't accept the responsibility."
-msgstr ""
+msgstr "Kusura bakmayın, bu sorumluluğu alamam."
 
 #. [message]: description=$current_leader.description
 #: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:570
 msgid "What are your orders Kalenz?"
-msgstr ""
+msgstr "Emirlerin Kalenz?"
 
 #. [option]: description=$current_leader.description
 #: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:574
 msgid "Stay with your current orders!"
-msgstr ""
+msgstr "Yerinde kal!"
 
 #. [option]: description=$current_leader.description
 #: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:579
 msgid "Goto the castle in the middle!"
-msgstr ""
+msgstr "Ortadaki kaleye git!"
 
 #. [option]: description=$current_leader.description
 #: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:594
-#, fuzzy
 msgid "Protect Galtrid"
-msgstr "Galtrid"
+msgstr "Galtrid’i koru"
 
 #. [option]: description=$current_leader.description
 #: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:613
-#, fuzzy
 msgid "Protect El'Isomithir"
-msgstr "El Isomithir"
+msgstr "Elisomitir’i koru"
 
 #. [option]: description=$current_leader.description
 #: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:632
 msgid "Protect the Southern Castle"
-msgstr ""
+msgstr "Güney kalesini koru"
 
 #. [option]: description=$current_leader.description
 #: Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:649
-#, fuzzy
 msgid "Defeat Grubr!"
-msgstr "Landar’ı öldür"
+msgstr "Grubur’u öldür!"
 
 #. [message]: description=Kalenz
 #: Legend_of_Wesmere/scenarios/07_Elves_last_standnew.cfg:522
@@ -4005,14 +4001,13 @@ msgstr "Şimdi de bize yardım geldi! Haydi döğüşe!"
 
 #. [unit]: description=Krumful, type=Draug
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:447
-#, fuzzy
 msgid "Krumful"
-msgstr "Krulug"
+msgstr "Krumful"
 
 #. [unit]: description=Unhul, type=Spectre
 #: Legend_of_Wesmere/scenarios/28_Shadows.cfg:455
 msgid "Unhul"
-msgstr ""
+msgstr "Unrul"
 
 #. [message]: description=Kalenz
 #: Legend_of_Wesmere/scenarios/28_Shadowsold.cfg:419
