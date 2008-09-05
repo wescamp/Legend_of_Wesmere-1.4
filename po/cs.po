@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-05-01 16:20+0200\n"
-"PO-Revision-Date: 2008-06-02 19:54+0100\n"
+"PO-Revision-Date: 2008-09-05 00:07+0100\n"
 "Last-Translator: Vladimír Slávik <slavik.vladimir@seznam.cz>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -894,16 +894,13 @@ msgstr "Máme poklad. Bylo to jednoduší než jsme mysle ... co se děje?"
 msgid "Swirh"
 msgstr "Swirh"
 
-# to je schválně špatně?
 #. [message]: description=Swirh
 #: Legend_of_Wesmere/scenarios/05_Saurian_Treasury.cfg:210
-#, fuzzy
 msgid ""
 "Stupid elves thought the treasury was unguarded! Guards, slay these "
 "intruders!"
 msgstr ""
-"Hloupý elfové. Jste si mysleli, že poklad není chráněn. Stráže, pobijte ty "
-"vetřelce!"
+"Hloupí elfové si mysleli, že poklad není hlídán. Stráže, pobijte ty vetřelce!"
 
 #. [message]: description=Kalenz
 #: Legend_of_Wesmere/scenarios/05_Saurian_Treasury.cfg:241
@@ -1536,7 +1533,7 @@ msgstr ""
 #. [message]: description=Olurf
 #: Legend_of_Wesmere/scenarios/08_Council_of_hard_choices.cfg:197
 msgid "I think I can. But dangerous this will be!"
-msgstr ""
+msgstr "Myslím, že můžu. Ale bude to nebezpečné!"
 
 #. [message]: description=Kalenz
 #: Legend_of_Wesmere/scenarios/08_Council_of_hard_choices.cfg:201
@@ -3182,12 +3179,10 @@ msgstr "Kalenz je u ukazatele"
 msgid "Gailetkis"
 msgstr "Gailetkis"
 
-# No, spíš dostat se pryč nebo něco takového?
 #. [message]: description=Gailetkis
 #: Legend_of_Wesmere/scenarios/21_Elvish_Assasins.cfg:208
-#, fuzzy
 msgid "My Lord Kalenz, you are in great danger! You must get out immediately."
-msgstr "Kalenzi, můj lorde, jste ve velkém nebezpečí! Musíte hned vystoupit."
+msgstr "Kalenzi, můj lorde, jste ve velkém nebezpečí! Musíte hned odejít."
 
 #. [message]: description=Kalenz
 #: Legend_of_Wesmere/scenarios/21_Elvish_Assasins.cfg:212
@@ -3868,37 +3863,37 @@ msgstr ""
 #. [side]: type=Warrior King, description=Garard
 #: Legend_of_Wesmere/scenarios/29_Save_the_King.cfg:50
 msgid "Garard"
-msgstr ""
+msgstr "Garard"
 
 #. [side]: type=Orcish Warlord, description=Zorlan
 #: Legend_of_Wesmere/scenarios/29_Save_the_King.cfg:70
 msgid "Zorlan"
-msgstr ""
+msgstr "Zorlan"
 
 #. [side]: type=Orcish Warrior, description=T'bhan
 #: Legend_of_Wesmere/scenarios/29_Save_the_King.cfg:92
 msgid "T'bhan"
-msgstr ""
+msgstr "T'bhan"
 
 #. [side]: type=Orcish Warrior, description=Qgthun
 #: Legend_of_Wesmere/scenarios/29_Save_the_King.cfg:113
 msgid "Qgthun"
-msgstr ""
+msgstr "Qgthun"
 
 #. [side]: type=Great Troll, description=Trgrau
 #: Legend_of_Wesmere/scenarios/29_Save_the_King.cfg:135
 msgid "Trgrau"
-msgstr ""
+msgstr "Trgrau"
 
 #. [objective]: condition=win
 #: Legend_of_Wesmere/scenarios/29_Save_the_King.cfg:172
 msgid "Defeat Zorlan"
-msgstr ""
+msgstr "Zorlan zemře"
 
 #. [objective]: condition=lose
 #: Legend_of_Wesmere/scenarios/29_Save_the_King.cfg:188
 msgid "Death of Garard"
-msgstr ""
+msgstr "Garard zemře"
 
 #. [message]: description=Delfador
 #: Legend_of_Wesmere/scenarios/29_Save_the_King.cfg:250
@@ -3930,7 +3925,7 @@ msgstr ""
 #. [message]: speaker=Kalenz
 #: Legend_of_Wesmere/scenarios/29_Save_the_King.cfg:272
 msgid "Victory! "
-msgstr ""
+msgstr "Vítězství!"
 
 #. [message]: speaker=Garard
 #: Legend_of_Wesmere/scenarios/29_Save_the_King.cfg:277
@@ -3938,21 +3933,22 @@ msgid ""
 "Delfador! And you, elvish friends! The kingdom of Wesnoth is in your debt "
 "today!"
 msgstr ""
+"Díky, Delfadore! I vám elfí přátelé! Království Wesnoth je vaším dlužníkem!"
 
 #. [message]: speaker=Delfador
 #: Legend_of_Wesmere/scenarios/29_Save_the_King.cfg:282
 msgid "My King, this is Kalenz, Lord of the Elves."
-msgstr ""
+msgstr "Můj králi, toto je Kalenz, Lord elfů."
 
 #. [message]: speaker=Garard
 #: Legend_of_Wesmere/scenarios/29_Save_the_King.cfg:287
 msgid "You will be forever welcome in the court of Wesnoth."
-msgstr ""
+msgstr "Vždy budeš vítán na dvoře království Wesnoth."
 
 #. [message]: speaker=Kalenz
 #: Legend_of_Wesmere/scenarios/29_Save_the_King.cfg:291
 msgid "We are happy to have fought by your side."
-msgstr ""
+msgstr "Jsme rádi, že jsme bojovali po vašem boku."
 
 #. [message]: speaker=Delfador
 #: Legend_of_Wesmere/scenarios/29_Save_the_King.cfg:295
@@ -4092,7 +4088,7 @@ msgstr "Eldred"
 #. [side]: type=General, description=Lowel
 #: Legend_of_Wesmere/scenarios/30_Prince_of_Wesnoth.cfg:78
 msgid "Lowel"
-msgstr ""
+msgstr "Lowel"
 
 #. [objective]: condition=win
 #: Legend_of_Wesmere/scenarios/30_Prince_of_Wesnoth.cfg:101
@@ -4148,12 +4144,12 @@ msgstr ""
 #. [message]: description=Kalenz
 #: Legend_of_Wesmere/scenarios/30_Prince_of_Wesnoth.cfg:252
 msgid "We are too late! All is lost!"
-msgstr ""
+msgstr "Příliš pozdě! Vše je ztraceno!"
 
 #. [scenario]
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:5
 msgid "Hero's Return"
-msgstr ""
+msgstr "Návrat hrdiny"
 
 #. [part]
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:21
@@ -4169,17 +4165,17 @@ msgstr ""
 #. [side]: type=Orcish Warrior, description=T'umqin
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:51
 msgid "T'umqin"
-msgstr ""
+msgstr "Tumqin"
 
 #. [side]: type=Orcish Warlord, description=Ocrhan
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:86
 msgid "Ocrhan"
-msgstr ""
+msgstr "Ocrhan"
 
 #. [side]: type=Orcish Warlord, description=Vragul
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:119
 msgid "Vragul"
-msgstr ""
+msgstr "Vragul"
 
 #. [message]: description=Cleodil
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:192
@@ -4187,11 +4183,13 @@ msgid ""
 "Looks like the orcs have attacked in force... This is the place Delfador and "
 "young Konrad were living in. I wonder if they were able to flee in time..."
 msgstr ""
+"Vypadá to, že sem vpadli skřeti ... Tohle je to místo, kde přebýval Delfador "
+"s mladým Konrádem. Jestlipak se jim podařilo včas uprchnout ..."
 
 #. [message]: description=Ocrhan
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:196
 msgid "More elves! Attack them and leave no one alive!"
-msgstr ""
+msgstr "Další elfové ... Na ně a zabte je všechny!"
 
 #. [message]: description=Kalenz
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:200
@@ -4205,11 +4203,13 @@ msgid ""
 "Ha!  This will be your end. The humans are no longer on your side. And with "
 "the Queen's gold, we can get many who will fight for us!"
 msgstr ""
+"Ha! To bude váš konec. Lidé už nejsou na vaší straně. A s královniným zlatem "
+"si můžem najmout spoustu dalších bojovníků!"
 
 #. [message]: speaker=Kalenz
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:213
 msgid "Victory!"
-msgstr ""
+msgstr "Vítězství!"
 
 #. [message]: description=Eonihar
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:239
@@ -4221,77 +4221,77 @@ msgstr ""
 #. [unit]: type=Orcish Warrior, description=Kfalru
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:253
 msgid "Kfalru"
-msgstr ""
+msgstr "Kfalru"
 
 #. [unit]: type=Wolf Rider, description=Grituw
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:261
 msgid "Grituw"
-msgstr ""
+msgstr "Grituw"
 
 #. [unit]: type=Direwolf Rider, description=Krigrul
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:269
 msgid "Krigrul"
-msgstr ""
+msgstr "Krigrul"
 
 #. [unit]: type=Goblin Pillager, description=Orthib
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:277
 msgid "Orthib"
-msgstr ""
+msgstr "Orthib"
 
 #. [unit]: type=Orcish Slayer, description=Ukhtan
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:284
 msgid "Ukhtan"
-msgstr ""
+msgstr "Ukhtan"
 
 #. [message]: speaker=Vragul
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:290
 msgid "Ha! More of us are coming! You elves are lost!"
-msgstr ""
+msgstr "Ha! Přicházejí nám posily! Je po vás, elfové!"
 
 #. [unit]: description=Athburil, type=Elvish Fighter
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:308
 msgid "Athburil"
-msgstr ""
+msgstr "Athburil"
 
 #. [unit]: description=Panorea, type=Elvish Shaman
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:321
 msgid "Panorea"
-msgstr ""
+msgstr "Panorea"
 
 #. [message]: speaker=Panorea
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:341
 msgid "Good thing you came! More of us are hiding in the forest."
-msgstr ""
+msgstr "Dobře, že jste přišli! Další z nás se skrývají v lese."
 
 #. [unit]: description=Ithoras, type=Elvish Archer
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:355
 msgid "Ithoras"
-msgstr ""
+msgstr "Ithoras"
 
 #. [unit]: description=Kletskis, type=Elvish Hero
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:369
 msgid "Kletskis"
-msgstr ""
+msgstr "Kletskis"
 
 #. [unit]: description=Pribol, type=Elvish Archer
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:394
 msgid "Pribol"
-msgstr ""
+msgstr "Pribol"
 
 #. [unit]: description=Ilendal, type=Elvish Fighter
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:407
 msgid "Ilendal"
-msgstr ""
+msgstr "Ilendal"
 
 #. [unit]: description=Arthanar, type=Elvish Fighter
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:431
 msgid "Arthanar"
-msgstr ""
+msgstr "Arthanar"
 
 #. [unit]: description=Gliglus, type=Elvish Archer
 #: Legend_of_Wesmere/scenarios/31_Hero's_Return.cfg:444
 msgid "Gliglus"
-msgstr ""
+msgstr "Gliglus"
 
 #. [scenario]
 #: Legend_of_Wesmere/scenarios/32_Epilogue.cfg:3
@@ -4301,7 +4301,7 @@ msgstr "Epilog"
 #. [part]
 #: Legend_of_Wesmere/scenarios/32_Epilogue.cfg:13
 msgid "After the end of Asheviere, Kalenz returned to his home in the North."
-msgstr ""
+msgstr "Po pádu Ašvíry se Kalenz vrátil do svého domova na severu."
 
 #. [part]
 #: Legend_of_Wesmere/scenarios/32_Epilogue.cfg:17
@@ -4309,6 +4309,7 @@ msgid ""
 "Some say he lived happily there; The elves still recognized them as their "
 "leader."
 msgstr ""
+"Říká se, že tam žil šťastně. Elfové ho nadále uznáváli jako svého vůdce."
 
 #. [part]
 #: Legend_of_Wesmere/scenarios/32_Epilogue.cfg:21
@@ -4316,11 +4317,12 @@ msgid ""
 "The plains and forests of Wesnoth would see many more seasons for Elves and "
 "humans."
 msgstr ""
+"Pláně a lesy Wesnothu pak zažily ještě mnoho dalších osudů elfů a lidí."
 
 #. [part]
 #: Legend_of_Wesmere/scenarios/32_Epilogue.cfg:25
 msgid "Kalenz's story  lived from mouth to mouth for the coming generations."
-msgstr ""
+msgstr "Kalenzův příběh žil ve vyprávěních všech následujících generací."
 
 #. [part]
 #: Legend_of_Wesmere/scenarios/32_Epilogue.cfg:29
@@ -4330,11 +4332,15 @@ msgid ""
 "the elves, like humans, had paid in much blood and suffering to learn that "
 "nothing in the world of  Wesnoth comes for free."
 msgstr ""
+"Mnozí však říkali, že i po mnoha letech se Kalenz stále toulá po lesích a "
+"ujišťuje se, že jsou pro elfy stálým domovem. Neboť elfové, stejně jako "
+"lidé, zaplatili velkou cenu krve a hořkosti za poznání, že nic ve světě "
+"Wesnothu nepřichází zadarmo."
 
 #. [unit]: race=elf
 #: Legend_of_Wesmere/units/Archer_Invisible.cfg:4
 msgid "Elvish Archer Invisible"
-msgstr ""
+msgstr "Neviditelný elfí lučištník"
 
 #. [unit]: race=elf
 #: Legend_of_Wesmere/units/Archer_Invisible.cfg:19
@@ -4369,7 +4375,7 @@ msgstr "luk"
 #. [unit]: race=elf
 #: Legend_of_Wesmere/units/Avenger_Invisible.cfg:4
 msgid "Elvish Avenger Invisible"
-msgstr ""
+msgstr "Neviditelný elfí mstitel"
 
 #. [unit]: race=elf
 #: Legend_of_Wesmere/units/Avenger_Invisible.cfg:21
@@ -4452,7 +4458,7 @@ msgstr ""
 #. [unit]: race=elf
 #: Legend_of_Wesmere/units/Marksman_Invisible.cfg:4
 msgid "Elvish Marksman Invisible"
-msgstr ""
+msgstr "Neviditelný elfí střelec"
 
 #. [unit]: race=elf
 #: Legend_of_Wesmere/units/Marksman_Invisible.cfg:19
@@ -4474,7 +4480,7 @@ msgstr "dlouhý luk"
 #. [unit]: race=elf
 #: Legend_of_Wesmere/units/Ranger_Invisible.cfg:3
 msgid "Elvish Ranger Invisible"
-msgstr ""
+msgstr "Neviditelný elfí hraničář"
 
 #. [unit]: race=elf
 #: Legend_of_Wesmere/units/Ranger_Invisible.cfg:19
@@ -4490,7 +4496,7 @@ msgstr ""
 #. [unit]: race=elf
 #: Legend_of_Wesmere/units/Sharpshooter_Invisible.cfg:4
 msgid "Elvish Sharpshooter Invisible"
-msgstr ""
+msgstr "Neviditelný elfí ostrostřelec"
 
 #. [unit]: race=elf
 #: Legend_of_Wesmere/units/Sharpshooter_Invisible.cfg:20
@@ -4521,12 +4527,12 @@ msgstr "Neee! Bez Landara nemůžeme dál pokračovat!"
 #. [message]: speaker=unit
 #: Legend_of_Wesmere/utils/deaths.cfg:60
 msgid "No! This is the end! We have been defeated!"
-msgstr ""
+msgstr "Ne! To je konec! Byli jsme poraženi!"
 
 #. [message]: speaker=unit
 #: Legend_of_Wesmere/utils/deaths.cfg:74
 msgid "With Uradredia gone, the North Elves will no longer fight!"
-msgstr ""
+msgstr "Teď, co Uradredia padl, už nebudou Severní elfové pokračovat v boji! "
 
 #. [message]: speaker=unit
 #: Legend_of_Wesmere/utils/deaths.cfg:88
@@ -4575,12 +4581,12 @@ msgstr "Aaach! Umírám!"
 #. [message]: speaker=Kalenz
 #: Legend_of_Wesmere/utils/deaths.cfg:179
 msgid "Orcs, death is all you will find in this forest!"
-msgstr ""
+msgstr "Jediné, co najdete v tomto lese bude vaše smrt, skřeti!"
 
 #. [message]: speaker=unit
 #: Legend_of_Wesmere/utils/deaths.cfg:191
 msgid "I die without getting da stone? "
-msgstr ""
+msgstr "Takže umírám dřív než jsem měl možnost zkamenět věkem? "
 
 #. [message]: speaker=unit
 #: Legend_of_Wesmere/utils/deaths.cfg:203
@@ -4590,7 +4596,7 @@ msgstr ""
 #. [message]: description=Kalenz
 #: Legend_of_Wesmere/utils/deaths.cfg:209
 msgid "I told you so!"
-msgstr ""
+msgstr "Říkal jsem ti to!"
 
 #. [message]: speaker=second_unit
 #: Legend_of_Wesmere/utils/deaths.cfg:213
@@ -4603,11 +4609,12 @@ msgid ""
 "Speak the truth and die quickly: Where is the human mage and the prince? "
 "What have you done to them?"
 msgstr ""
+"Řekni pravdu a zemřeš rychle: Kde je lidský mág a princ? Co jste jim udělali?"
 
 #. [message]: speaker=Vragul
 #: Legend_of_Wesmere/utils/deaths.cfg:231
 msgid "They are dead. We burned them."
-msgstr ""
+msgstr "Je po nich. Spálili jsme je."
 
 #. [message]: speaker=Kalenz
 #: Legend_of_Wesmere/utils/deaths.cfg:237
@@ -4615,6 +4622,8 @@ msgid ""
 "If this were true, you'd either display them or have sent their bodies to "
 "the queen. Make sure this lying worm dies slow."
 msgstr ""
+"Pokud by to byla pravda, buď byste jejich těla ukázali nebo je poslali "
+"královně. Dejme si záležet, aby tento prolhaný červ umíral pomalu.  "
 
 #. [message]: speaker=unit
 #: Legend_of_Wesmere/utils/deaths.cfg:249
@@ -4624,12 +4633,12 @@ msgstr ""
 #. [message]: speaker=Kalenz
 #: Legend_of_Wesmere/utils/deaths.cfg:262
 msgid "No! it's all over!"
-msgstr ""
+msgstr "Ne! Vše je ztraceno!"
 
 #. [message]: speaker=Qgthun
 #: Legend_of_Wesmere/utils/deaths.cfg:278
 msgid "Invincible Zorlan is dead? Quick, run for your lives!"
-msgstr ""
+msgstr "Neporazitelný Zorlan je mrtvý? Utíkejte, zachraňte se!"
 
 #. [message]: speaker=Kalenz
 #: Legend_of_Wesmere/utils/deaths.cfg:284
@@ -4639,12 +4648,12 @@ msgstr "Už nebudeš terorizovat Wesnoth!"
 #. [message]: speaker=Kalenz
 #: Legend_of_Wesmere/utils/deaths.cfg:313
 msgid "There goes Wesnoth's only hope!"
-msgstr ""
+msgstr "Odchází jediná naděje Wesnothu!"
 
 #. [message]: speaker=Delfador
 #: Legend_of_Wesmere/utils/deaths.cfg:329
 msgid "The King has fallen! Now Wesnoth will fail!"
-msgstr ""
+msgstr "Král padl! Království Wesnothu bude zničeno!"
 
 #. [message]: speaker=unit
 #: Legend_of_Wesmere/utils/deaths.cfg:340
