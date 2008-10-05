@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-05-01 16:20+0200\n"
-"PO-Revision-Date: 2008-09-09 20:45+0100\n"
+"PO-Revision-Date: 2008-10-04 12:44+0100\n"
 "Last-Translator: Vladimír Slávik <slavik.vladimir@seznam.cz>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -1762,6 +1762,7 @@ msgstr ""
 msgid ""
 "Told you it would be no  picnic excursion elf-boy. Too scared to continue?"
 msgstr ""
+"Říkal jsem, že to nebude žádný zábavný výlet, elfíku. Bojíš se pokračovat?"
 
 #. [message]: description=Kalenz
 #: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:212
@@ -1785,7 +1786,7 @@ msgstr "Kupředu!"
 #. [message]: description=Olurf
 #: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:234
 msgid "Doing pretty well elf-boy! "
-msgstr ""
+msgstr "Správně, elfíku!"
 
 #. [message]: description=Cleodil
 #: Legend_of_Wesmere/scenarios/10_Cliffs_of_Thoria.cfg:257
@@ -1854,7 +1855,7 @@ msgstr "Trigrul"
 #. [objective]: condition=win
 #: Legend_of_Wesmere/scenarios/11_Battle_of_the_book.cfg:94
 msgid "Defeat the drakes and trolls"
-msgstr "Poraz draky a trolly"
+msgstr "Poraz drakonidy a trolly"
 
 # Návěští scénáře
 #. [objective]: condition=lose
@@ -1883,7 +1884,7 @@ msgstr "Hlupáci! Kniha bude moje!"
 #. [scenario]
 #: Legend_of_Wesmere/scenarios/12_Revelations.cfg:3
 msgid "Revelations"
-msgstr ""
+msgstr "Odhalení"
 
 #. [message]: description=Crelanu
 #: Legend_of_Wesmere/scenarios/12_Revelations.cfg:74
@@ -3262,18 +3263,19 @@ msgstr ""
 #. [scenario]
 #: Legend_of_Wesmere/scenarios/21_Elvish_Assasins.cfg:4
 msgid "Elvish Assasins"
-msgstr ""
+msgstr "Elfí vrazi"
 
 #. [part]
 #: Legend_of_Wesmere/scenarios/21_Elvish_Assasins.cfg:20
 msgid ""
 "After the council's decision, Kalenz and Cleodil retired in the North ..."
 msgstr ""
+"Po rozhodnutí koncilu se Kalenz a Cleodil odebrali do ústraní na sever ... "
 
 #. [part]
 #: Legend_of_Wesmere/scenarios/21_Elvish_Assasins.cfg:29
 msgid "...but things were about to get interesting again..."
-msgstr ""
+msgstr "... ale věci se zase začaly vyvíjet zajímavě ..."
 
 #. [side]: type=Elvish Ranger, description=Antaril
 #: Legend_of_Wesmere/scenarios/21_Elvish_Assasins.cfg:60
@@ -3320,11 +3322,13 @@ msgid ""
 "proclaimed himself Lord. What is worse, there is word out that he has "
 "already ordered your assasination."
 msgstr ""
+"Landar převzal kontrolu nad armádou. Odstavil koncil a sám se prohlásil "
+"lordem. Horší je, že se říká, že si již objednal tvé zavraždění."
 
 #. [message]: description=Crintil
 #: Legend_of_Wesmere/scenarios/21_Elvish_Assasins.cfg:221
 msgid "Too late! All traitors will die!"
-msgstr ""
+msgstr "Pozdě! Vy všichni zrádci zemřete!"
 
 #. [message]: description=Kalenz
 #: Legend_of_Wesmere/scenarios/21_Elvish_Assasins.cfg:225
@@ -3332,11 +3336,13 @@ msgid ""
 "Listen to me! We have fought and bled side by side.  We do not have to fight "
 "each other!"
 msgstr ""
+"Poslouchej mě! Bojovali a krváceli jsme bok po boku. Nemůžeme bojovat proti "
+"sobě navzájem!"
 
 #. [message]: description=Oblil
 #: Legend_of_Wesmere/scenarios/21_Elvish_Assasins.cfg:230
 msgid "Do not listen to this traitor! You all have heard the order!"
-msgstr ""
+msgstr "Neposlouchejte toho zrádce! Všichni jste slyšeli rozkazy!"
 
 #. [message]: description=Gailetkis
 #: Legend_of_Wesmere/scenarios/21_Elvish_Assasins.cfg:235
@@ -3345,11 +3351,14 @@ msgid ""
 "join Landar. Plus, word is that some troops still loyal to you are heading "
 "there."
 msgstr ""
+"Měl by jsi se pokusit dostat se k Urarediovi a Severním elfům. Také odmítl "
+"připojit se k Landarovi. A navíc se říká, že některé tobě věrné jednotky se "
+"tam stahují."
 
 #. [message]: speaker=unit
 #: Legend_of_Wesmere/scenarios/21_Elvish_Assasins.cfg:249
 msgid "Now we must head to the North Elves!"
-msgstr ""
+msgstr "Tak teď se musíme dostat k Severním elfům!"
 
 #. [scenario]
 #: Legend_of_Wesmere/scenarios/22_Northern_Battle.cfg:4
@@ -3362,6 +3371,8 @@ msgid ""
 "Kalenz managed to reach the North Elves to ask for help. Very soon, Landar's "
 "army appeared..."
 msgstr ""
+"Kalenz se dostal k Severním elfům, aby požádal o pomoc. Brzy nato se "
+"objevila Landarova armáda ..."
 
 #. [objective]: condition=win
 #: Legend_of_Wesmere/scenarios/22_Northern_Battle.cfg:139
@@ -3374,17 +3385,20 @@ msgid ""
 "Landar, listen to me! It does not have to come to this. I know about the "
 "potion. Let us help!"
 msgstr ""
+"Landare, poslouchej mě! Nemusí to dojít tak daleko. Vím o tom, co dělá "
+"lektvar. Dovol nám ti pomoci!"
 
 #. [message]: description=Landar
 #: Legend_of_Wesmere/scenarios/22_Northern_Battle.cfg:222
 msgid "Here is Kalenz. There is no talk with traitors! Let none of them alive!"
 msgstr ""
+"Kalenz je tady. Vůbec se se zrádci nebavte! Nenechte nikoho z nich přežít! "
 
 #. [message]: description=Landar
 #: Legend_of_Wesmere/scenarios/22_Northern_Battle.cfg:236
 #: Legend_of_Wesmere/scenarios/22_Northern_Battle.cfg:258
 msgid "Things are not going well! Retreat! We will meet again, traitors!"
-msgstr ""
+msgstr "Nevyvíjí se to dobře! Ústup! Ještě se uvidíme, zrádci!"
 
 #. [message]: description=Landar
 #: Legend_of_Wesmere/scenarios/22_Northern_Battle.cfg:278
@@ -3392,6 +3406,8 @@ msgid ""
 "We have yet to break their defences! While we are getting weaker the enemy "
 "is getting stronger! Retreat!"
 msgstr ""
+"Ještě jsme nerozbili jejich obranu! A zatímco my slábneme, nepřítel sílí! "
+"Ústup!"
 
 #. [message]: description=Kalenz
 #: Legend_of_Wesmere/scenarios/22_Northern_Battle.cfg:289
